@@ -721,6 +721,14 @@ def scan_folder(source: Path, include_subfolders: bool = False,
                     break
             group_prefixes[rep] = first[:lcp] if lcp >= 3 else sorted_gkeys[0]
 
+    # Identify which groups contain a .ymf manifest (these should NOT be merged together)
+    groups_with_ymf: set[str] = set()
+    for rep, members in current_groups.items():
+        for m in members:
+            if file_infos[m].extension == '.ymf':
+                groups_with_ymf.add(rep)
+                break
+
     # Sort groups by their prefix for adjacent merging
     sorted_reps = sorted(current_groups.keys(), key=lambda r: group_prefixes.get(r, ''))
 
@@ -728,6 +736,12 @@ def scan_folder(source: Path, include_subfolders: bool = False,
     for i in range(len(sorted_reps) - 1):
         rep1 = sorted_reps[i]
         rep2 = sorted_reps[i + 1]
+
+        # CRITICAL: Never merge two groups if BOTH contain a .ymf manifest
+        # Each manifest defines its own separate resource
+        if rep1 in groups_with_ymf and rep2 in groups_with_ymf:
+            continue
+
         prefix1 = group_prefixes.get(rep1, '')
         prefix2 = group_prefixes.get(rep2, '')
 
@@ -760,10 +774,15 @@ def scan_folder(source: Path, include_subfolders: bool = False,
         # One ends, other has underscore
         elif (not r1 and r2 and r2[0] == '_') or (not r2 and r1 and r1[0] == '_'):
             should_merge = True
-        # One ends, other continues without underscore (digit continuation)
+        # One ends, other continues without underscore
         elif (not r1 or not r2):
             longer = r1 if r1 else r2
             if longer and longer[0].isdigit() and cp_len >= 6:
+                # Digit continuation (e.g., "shop10" vs "shop")
+                should_merge = True
+            elif longer and len(longer) <= 6 and cp_len >= 12:
+                # Short extension of a long common prefix
+                # e.g., "quebradashopgraf" + "atl" (16 char prefix, 3 char extension)
                 should_merge = True
         # Both continue without underscore but prefix contains underscore
         # and is long enough (e.g., "quebradashop_v3" prefix with "9" vs "10")
@@ -777,7 +796,73 @@ def scan_folder(source: Path, include_subfolders: bool = False,
             uf.union(key1, key2)
 
     if progress_callback:
-        progress_callback(80, 100, "Mesclagem de prefixos completa...")
+        progress_callback(75, 100, "Mesclagem de prefixos completa...")
+
+    # === PHASE 5.5: YMF Anchoring ===
+    # Manifests define resources — absorb orphan groups into manifest groups
+    phase55_groups = uf.get_groups()
+
+    # Identify groups that contain a _manifest*.ymf
+    manifest_groups: dict[str, str] = {}  # resource_name -> representative key of manifest group
+    manifest_reps: set[str] = set()       # representatives that have manifests
+
+    for rep, members in phase55_groups.items():
+        for m in members:
+            info = file_infos[m]
+            if info.extension == '.ymf':
+                rname = _extract_ymf_resource_name(info.path.name)
+                if rname and len(rname) >= 3:
+                    manifest_groups[rname] = rep
+                    manifest_reps.add(rep)
+                    break
+
+    if manifest_groups:
+        # Find groups WITHOUT a manifest
+        orphan_reps = [r for r in phase55_groups if r not in manifest_reps]
+
+        # Strategy 1: If there's exactly 1 manifest and the total file count is
+        # relatively small (<=100), this is likely a single-resource folder.
+        # Absorb ALL orphan groups into the manifest group.
+        total_file_count = len(file_infos)
+        if len(manifest_groups) == 1 and total_file_count <= 100:
+            manifest_rep_key = list(manifest_groups.values())[0]
+            manifest_any_member = phase55_groups[manifest_rep_key][0]
+            for orphan_rep in orphan_reps:
+                orphan_any_member = phase55_groups[orphan_rep][0]
+                uf.union(manifest_any_member, orphan_any_member)
+        else:
+            # Strategy 2: For large multi-manifest datasets, absorb orphan groups
+            # whose grouping key contains the manifest resource name as a substring
+            # or starts with it.
+            for orphan_rep in orphan_reps:
+                orphan_members = phase55_groups[orphan_rep]
+                # Get the set of grouping keys in this orphan group
+                orphan_gkeys = set()
+                for m in orphan_members:
+                    orphan_gkeys.add(key_to_group_key[m])
+
+                # Check each manifest for a match
+                best_manifest = None
+                best_match_len = 0
+
+                for rname, mrep in manifest_groups.items():
+                    for ogk in orphan_gkeys:
+                        # Match: grouping key starts with resource name
+                        if ogk.startswith(rname) and len(rname) > best_match_len:
+                            best_manifest = mrep
+                            best_match_len = len(rname)
+                        # Match: resource name starts with grouping key
+                        elif rname.startswith(ogk) and len(ogk) >= 5 and len(ogk) > best_match_len:
+                            best_manifest = mrep
+                            best_match_len = len(ogk)
+
+                if best_manifest and best_match_len >= 5:
+                    manifest_member = phase55_groups[best_manifest][0]
+                    orphan_member = orphan_members[0]
+                    uf.union(manifest_member, orphan_member)
+
+    if progress_callback:
+        progress_callback(85, 100, "Ancoragem YMF completa...")
 
     # === PHASE 6: Build final MapResource objects ===
     final_groups = uf.get_groups()
