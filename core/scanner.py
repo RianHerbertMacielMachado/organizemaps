@@ -136,8 +136,9 @@ def parse_ymf_binary(path: Path) -> set[str]:
     """
     Extract ASCII string references from a binary .ymf file.
 
-    Uses regex to find valid identifier strings that may reference
-    other files in the source folder.
+    Supports two RSC7 sub-formats:
+    1. PSO/PSIG format: has a STRS section with null-terminated strings
+    2. Standard RSC7: strings embedded between null bytes
 
     Args:
         path: Path to the .ymf binary file.
@@ -152,15 +153,41 @@ def parse_ymf_binary(path: Path) -> set[str]:
 
     names: set[str] = set()
 
+    # Check for STRS section (PSO format used by CodeWalker)
+    strs_pos = data.find(b'STRS')
+    if strs_pos >= 0:
+        # STRS section contains length-prefixed or null-separated strings
+        strs_section = data[strs_pos + 4:]
+        # Extract all valid identifier strings from STRS section
+        # Format: often a byte length prefix followed by the string
+        strs_matches = re.findall(rb'([a-zA-Z][a-zA-Z0-9_@]{2,63})', strs_section)
+        for m in strs_matches:
+            try:
+                name = m.decode('ascii').lower()
+                # Filter out known section markers
+                if name not in ('strs', 'chks', 'psin', 'pmap', 'psch', 'psig', 'zvnp', 'yppp'):
+                    names.add(name)
+            except (UnicodeDecodeError, ValueError):
+                continue
+
+    # Also scan the full binary for string patterns
     # Pattern 1: ASCII strings preceded by non-null or start
     matches1 = re.findall(rb'(?<!\x00)([a-zA-Z][a-zA-Z0-9_@]{2,63})(?=\x00)', data)
     # Pattern 2: ASCII strings between null bytes
     matches2 = re.findall(rb'\x00([a-zA-Z][a-zA-Z0-9_@]{2,63})\x00', data)
+    # Pattern 3: Any identifier-like string 5+ chars (more aggressive for RSC7)
+    matches3 = re.findall(rb'([a-z][a-z0-9_@]{4,63})', data)
 
-    for m in matches1 + matches2:
+    for m in matches1 + matches2 + matches3:
         try:
             name = m.decode('ascii').lower()
-            names.add(name)
+            # Filter out RSC7 section markers and common false positives
+            if name in ('psin', 'pmap', 'psch', 'psig', 'zvnp', 'strs', 'chks', 'yppp',
+                        'null', 'none', 'false', 'true', 'string', 'array'):
+                continue
+            # Must be at least 3 chars and look like a filename
+            if len(name) >= 3:
+                names.add(name)
         except (UnicodeDecodeError, ValueError):
             continue
 
