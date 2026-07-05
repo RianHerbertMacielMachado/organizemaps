@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="-1E-06" />
    <bsRadius value="19176" />
    <hdTextureDist value="100" />
-   <name>hash_EB4918B3</name>
+   <name>quebradashopfarmts_shell</name>
    <textureDictionary>hash_6DE11431</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_EB4918B3</assetName>
+   <assetName>quebradashopfarmts_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="0" y="0" z="-0.00129724" />
    <bsRadius value="768462" />
    <hdTextureDist value="83.6452" />
-   <name>hash_53C52EA9</name>
+   <name>quebradashopfarmts_detail2</name>
    <textureDictionary>hash_6DE11431</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_53C52EA9</physicsDictionary>
+   <physicsDictionary>quebradashopfarmts_detail2</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_53C52EA9</assetName>
+   <assetName>quebradashopfarmts_detail2</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -47,13 +47,13 @@
    <bsCentre x="0.00708008" y="-0.263183" z="0.368164" />
    <bsRadius value="615111" />
    <hdTextureDist value="81.92" />
-   <name>hash_6177CA0E</name>
+   <name>quebradashopfarmts_detail1</name>
    <textureDictionary>hash_6DE11431</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_6177CA0E</physicsDictionary>
+   <physicsDictionary>quebradashopfarmts_detail1</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_6177CA0E</assetName>
+   <assetName>quebradashopfarmts_detail1</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="-0.0644369" y="-0.0733242" z="-6.83123" />
    <bsRadius value="249969" />
    <hdTextureDist value="103.122" />
-   <name>hash_A3DCA28D</name>
-   <textureDictionary>hash_5BD1F89C</textureDictionary>
+   <name>quebradashopfarmts_ext</name>
+   <textureDictionary>favela_qs_casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_A3DCA28D</physicsDictionary>
+   <physicsDictionary>quebradashopfarmts_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_A3DCA28D</assetName>
+   <assetName>quebradashopfarmts_ext</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -83,18 +83,18 @@
    <bsCentre x="0" y="0" z="-1E-06" />
    <bsRadius value="19.176" />
    <hdTextureDist value="5" />
-   <name>hash_BBA2AE97</name>
+   <name>quebradashopfarmts_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_BBA2AE97</assetName>
+   <assetName>quebradashopfarmts_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_EB4918B3</archetypeName>
+     <archetypeName>quebradashopfarmts_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -132,7 +132,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_6177CA0E</archetypeName>
+     <archetypeName>quebradashopfarmts_detail1</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="-0.0227355957" y="-13.5072174" z="5.535845" />
@@ -151,7 +151,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_53C52EA9</archetypeName>
+     <archetypeName>quebradashopfarmts_detail2</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="2.90487647" y="-6.71101236" z="-1.61580276" />
@@ -2298,7 +2298,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_8AE99900</archetypeName>
+     <archetypeName>prop_cs_hand_radio</archetypeName>
      <flags value="2147483688" />
      <guid value="0" />
      <position x="0.0485618263" y="1.93815887" z="4.817127" />
@@ -2317,7 +2317,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_8AE99900</archetypeName>
+     <archetypeName>prop_cs_hand_radio</archetypeName>
      <flags value="2147483688" />
      <guid value="0" />
      <position x="3.45662236" y="-0.3146994" z="4.818409" />
@@ -2336,7 +2336,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_8AE99900</archetypeName>
+     <archetypeName>prop_cs_hand_radio</archetypeName>
      <flags value="2147483688" />
      <guid value="0" />
      <position x="-4.330142" y="0.466899425" z="5.04954529" />
@@ -2956,7 +2956,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_096E1231</name>
+ <name>quebradashopfarmts</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_8298077B</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_3E47AA82</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_511FC8DD</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_B2CC134C</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>hash_3E47AA82</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>cs_hlun_lod</Item>
+    <Item>hei_mp_residential_heist</Item>
+    <Item>quebradashoprua_tunnel</Item>
+    <Item>int_medical</Item>
+    <Item>detailrua1</Item>
+    <Item>v_electrical</Item>
+    <Item>ex_int_mp_h_accessories_ex</Item>
+    <Item>int_residential</Item>
+    <Item>apa_int_mp_stilts_b</Item>
+    <Item>v_potted</Item>
+    <Item>v_rubbish</Item>
+    <Item>qs_quadro</Item>
+    <Item>v_int_24</Item>
+    <Item>apa_int_mp_h_props</Item>
+    <Item>v_office</Item>
+    <Item>v_minigame</Item>
+    <Item>v_lev_doors</Item>
+    <Item>int_club</Item>
+    <Item>int_corporate</Item>
+    <Item>int_industrial</Item>
+    <Item>v_bar</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>lev_des</Item>
+    <Item>int_retail</Item>
+    <Item>bkr_mp_biker_coke</Item>
+    <Item>vw_prop_vw_accs</Item>
+    <Item>v_kitchen</Item>
+    <Item>v_storage</Item>
+    <Item>v_airport</Item>
+    <Item>int_lev_des</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <itypName>hash_B2CC134C</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>v_rubbish</Item>
+    <Item>quebradashoprua_tunnel</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>v_garage</Item>
+    <Item>int_industrial</Item>
+    <Item>v_garden</Item>
+    <Item>v_storage</Item>
+    <Item>int_lev_des</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles">
+  <Item>
+   <Name>hash_F429733B</Name>
+   <Bounds>
+    <Item>hash_F429733B</Item>
+   </Bounds>
+  </Item>
+  <Item>
+   <Name>hash_F15A8D58</Name>
+   <Bounds>
+    <Item>hash_F15A8D58</Item>
+   </Bounds>
+  </Item>
+ </Interiors>
+</CPackFileMetaData>

@@ -11,13 +11,13 @@
    <bsCentre x="0.5688131" y="-0.0005854" z="1.11378" />
    <bsRadius value="125696" />
    <hdTextureDist value="15" />
-   <name>hash_5207ADB4</name>
-   <textureDictionary>hash_5207ADB4</textureDictionary>
+   <name>slb2k11_perico_bungalow_door</name>
+   <textureDictionary>slb2k11_perico_bungalow_door</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_5207ADB4</physicsDictionary>
+   <physicsDictionary>slb2k11_perico_bungalow_door</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_5207ADB4</assetName>
+   <assetName>slb2k11_perico_bungalow_door</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-0.0999951" y="-2.229294" z="2.932971" />
    <bsRadius value="14.197" />
    <hdTextureDist value="50" />
-   <name>hash_207B5D72</name>
-   <textureDictionary>hash_207B5D72</textureDictionary>
+   <name>slb2k11_perico_bungalow_out</name>
+   <textureDictionary>slb2k11_perico_bungalow_out</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_207B5D72</physicsDictionary>
+   <physicsDictionary>slb2k11_perico_bungalow_out</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_207B5D72</assetName>
+   <assetName>slb2k11_perico_bungalow_out</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -47,13 +47,13 @@
    <bsCentre x="-0.5768709" y="-0.0523667" z="7.760259" />
    <bsRadius value="604687" />
    <hdTextureDist value="50" />
-   <name>hash_382C72C8</name>
-   <textureDictionary>hash_382C72C8</textureDictionary>
+   <name>slb2k11_perico_bungalow_1</name>
+   <textureDictionary>slb2k11_perico_bungalow_1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_382C72C8</physicsDictionary>
+   <physicsDictionary>slb2k11_perico_bungalow_1</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_382C72C8</assetName>
+   <assetName>slb2k11_perico_bungalow_1</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="-0.577014" y="-0.0587735" z="7.756925" />
    <bsRadius value="608797" />
    <hdTextureDist value="50" />
-   <name>hash_50D730BF</name>
-   <textureDictionary>hash_50D730BF</textureDictionary>
+   <name>slb2k11_perico_bungalow_int</name>
+   <textureDictionary>slb2k11_perico_bungalow_int</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_50D730BF</physicsDictionary>
+   <physicsDictionary>slb2k11_perico_bungalow_int</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_50D730BF</assetName>
+   <assetName>slb2k11_perico_bungalow_int</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -83,13 +83,13 @@
    <bsCentre x="-2.903357" y="-24.04448" z="-1.263677" />
    <bsRadius value="140656" />
    <hdTextureDist value="50" />
-   <name>hash_21F2623C</name>
-   <textureDictionary>hash_21F2623C</textureDictionary>
+   <name>slb2k11_resort_dock_bungalow</name>
+   <textureDictionary>slb2k11_resort_dock_bungalow</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_21F2623C</physicsDictionary>
+   <physicsDictionary>slb2k11_resort_dock_bungalow</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_21F2623C</assetName>
+   <assetName>slb2k11_resort_dock_bungalow</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -101,18 +101,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_6398FE4A</name>
+   <name>slb2k11_perico_bungalow_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_6398FE4A</physicsDictionary>
+   <physicsDictionary>slb2k11_perico_bungalow_col</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_6398FE4A</assetName>
+   <assetName>slb2k11_perico_bungalow_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_50D730BF</archetypeName>
+     <archetypeName>slb2k11_perico_bungalow_int</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -131,7 +131,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_382C72C8</archetypeName>
+     <archetypeName>slb2k11_perico_bungalow_1</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -454,7 +454,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5207ADB4</archetypeName>
+     <archetypeName>slb2k11_perico_bungalow_door</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="2.84167" y="1.331953" z="6.15" />
@@ -600,7 +600,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_64898ABC</name>
+ <name>slb2k11_perico_bungalow</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

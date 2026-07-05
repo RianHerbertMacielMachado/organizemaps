@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name />
+ <parent />
+ <flags value="0" />
+ <contentFlags value="1088" />
+ <streamingExtentsMin x="376.335968" y="843.453" z="163.956055" />
+ <streamingExtentsMax x="1044.832" y="1303.89771" z="300.2693" />
+ <entitiesExtentsMin x="416.335968" y="883.453" z="203.956055" />
+ <entitiesExtentsMax x="1004.83209" y="1263.89771" z="260.2693" />
+ <entities />
+ <containerLods itemType="rage__fwContainerLodDef" />
+ <boxOccluders itemType="BoxOccluder" />
+ <occludeModels itemType="OccludeModel" />
+ <physicsDictionaries>
+  <Item>hash_41274EE4</Item>
+  <Item>hash_4A616158</Item>
+ </physicsDictionaries>
+ <instancedData>
+  <ImapLink />
+  <PropInstanceList itemType="rage__fwPropInstanceListDef" />
+  <GrassInstanceList itemType="rage__fwGrassInstanceListDef">
+   <Item>
+    <BatchAABB>
+     <min x="537.252258" y="996.146667" z="212.154266" w="0" />
+     <max x="547.0357" y="1049.04187" z="221.089767" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_CAFC1EC3</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>16348 5457 7244</Position>
+      <NormalX value="97" />
+      <NormalY value="118" />
+      <Color>181 159 132</Color>
+      <Scale value="178" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>60450 30126 29656</Position>
+      <NormalX value="93" />
+      <NormalY value="103" />
+      <Color>158 137 109</Color>
+      <Scale value="190" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>46141 65197 65044</Position>
+      <NormalX value="111" />
+      <NormalY value="103" />
+      <Color>180 159 131</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>1367 337 272</Position>
+      <NormalX value="84" />
+      <NormalY value="131" />
+      <Color>151 134 109</Color>
+      <Scale value="84" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>56306 24051 25556</Position>
+      <NormalX value="85" />
+      <NormalY value="131" />
+      <Color>175 152 121</Color>
+      <Scale value="140" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>40848 64615 63550</Position>
+      <NormalX value="106" />
+      <NormalY value="104" />
+      <Color>180 159 131</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>13122 6084 6518</Position>
+      <NormalX value="84" />
+      <NormalY value="118" />
+      <Color>181 159 132</Color>
+      <Scale value="178" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>59299 24615 26584</Position>
+      <NormalX value="85" />
+      <NormalY value="131" />
+      <Color>175 152 121</Color>
+      <Scale value="140" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64167 28838 29862</Position>
+      <NormalX value="91" />
+      <NormalY value="113" />
+      <Color>158 137 109</Color>
+      <Scale value="190" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="417.009033" y="1189.82678" z="246.460617" w="0" />
+     <max x="423.1875" y="1257.31213" z="258.851776" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_CAFC1EC3</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>24217 22758 23320</Position>
+      <NormalX value="117" />
+      <NormalY value="105" />
+      <Color>171 157 137</Color>
+      <Scale value="39" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>62979 418 368</Position>
+      <NormalX value="124" />
+      <NormalY value="101" />
+      <Color>171 148 133</Color>
+      <Scale value="196" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>5951 59228 58723</Position>
+      <NormalX value="121" />
+      <NormalY value="104" />
+      <Color>171 158 143</Color>
+      <Scale value="90" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>42825 18800 19993</Position>
+      <NormalX value="122" />
+      <NormalY value="102" />
+      <Color>168 153 136</Color>
+      <Scale value="18" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>12029 52559 52293</Position>
+      <NormalX value="122" />
+      <NormalY value="104" />
+      <Color>164 152 136</Color>
+      <Scale value="120" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63369 264 196</Position>
+      <NormalX value="124" />
+      <NormalY value="101" />
+      <Color>171 148 133</Color>
+      <Scale value="196" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>11939 56660 56307</Position>
+      <NormalX value="120" />
+      <NormalY value="104" />
+      <Color>182 166 146</Color>
+      <Scale value="120" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>7689 57067 56602</Position>
+      <NormalX value="120" />
+      <NormalY value="104" />
+      <Color>173 158 140</Color>
+      <Scale value="113" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2867 50489 50086</Position>
+      <NormalX value="122" />
+      <NormalY value="105" />
+      <Color>172 161 146</Color>
+      <Scale value="80" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>14995 65270 65181</Position>
+      <NormalX value="121" />
+      <NormalY value="103" />
+      <Color>171 152 126</Color>
+      <Scale value="48" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2165 64603 64207</Position>
+      <NormalX value="124" />
+      <NormalY value="100" />
+      <Color>174 159 138</Color>
+      <Scale value="76" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="505.6195" y="975.0861" z="206.320358" w="0" />
+     <max x="537.6802" y="995.608" z="212.9472" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_CAFC1EC3</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>63491 62342 55632</Position>
+      <NormalX value="74" />
+      <NormalY value="133" />
+      <Color>205 178 144</Color>
+      <Scale value="90" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>18477 20450 20478</Position>
+      <NormalX value="111" />
+      <NormalY value="125" />
+      <Color>182 154 137</Color>
+      <Scale value="27" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>62730 60430 55646</Position>
+      <NormalX value="85" />
+      <NormalY value="152" />
+      <Color>191 165 132</Color>
+      <Scale value="76" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2044 3193 9889</Position>
+      <NormalX value="109" />
+      <NormalY value="127" />
+      <Color>169 155 137</Color>
+      <Scale value="41" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="416.335968" y="1244.00659" z="256.352966" w="0" />
+     <max x="421.359467" y="1263.89771" z="260.2693" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_F51F7309</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>13679 7182 6110</Position>
+      <NormalX value="121" />
+      <NormalY value="105" />
+      <Color>169 144 130</Color>
+      <Scale value="127" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>34136 4652 4974</Position>
+      <NormalX value="119" />
+      <NormalY value="104" />
+      <Color>145 144 147</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>61931 65070 64375</Position>
+      <NormalX value="123" />
+      <NormalY value="101" />
+      <Color>178 168 160</Color>
+      <Scale value="12" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>3603 6620 5026</Position>
+      <NormalX value="121" />
+      <NormalY value="105" />
+      <Color>145 144 147</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>25199 464 598</Position>
+      <NormalX value="122" />
+      <NormalY value="104" />
+      <Color>169 144 130</Color>
+      <Scale value="127" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="502.9054" y="967.8783" z="205.872757" w="0" />
+     <max x="544.7351" y="1042.653" z="220.5427" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_F51F7309</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>1570 7151 4894</Position>
+      <NormalX value="99" />
+      <NormalY value="141" />
+      <Color>172 160 156</Color>
+      <Scale value="64" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>53816 30788 29981</Position>
+      <NormalX value="100" />
+      <NormalY value="115" />
+      <Color>162 149 145</Color>
+      <Scale value="41" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63969 63770 60271</Position>
+      <NormalX value="119" />
+      <NormalY value="107" />
+      <Color>179 148 122</Color>
+      <Scale value="63" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>1566 5966 4467</Position>
+      <NormalX value="105" />
+      <NormalY value="124" />
+      <Color>198 167 144</Color>
+      <Scale value="73" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>49128 25478 25698</Position>
+      <NormalX value="110" />
+      <NormalY value="115" />
+      <Color>208 184 163</Color>
+      <Scale value="57" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>62478 64659 61068</Position>
+      <NormalX value="129" />
+      <NormalY value="104" />
+      <Color>186 150 121</Color>
+      <Scale value="57" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>46952 24375 24145</Position>
+      <NormalX value="110" />
+      <NormalY value="117" />
+      <Color>196 158 130</Color>
+      <Scale value="63" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>10179 876 8023</Position>
+      <NormalX value="106" />
+      <NormalY value="138" />
+      <Color>170 158 145</Color>
+      <Scale value="63" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="998.107056" y="884.543762" z="207.932159" w="0" />
+     <max x="1004.83209" y="903.966858" z="209.547226" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_D971BBAE</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>6587 274 1083</Position>
+      <NormalX value="121" />
+      <NormalY value="119" />
+      <Color>75 72 54</Color>
+      <Scale value="73" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>35384 59728 55935</Position>
+      <NormalX value="118" />
+      <NormalY value="117" />
+      <Color>180 164 154</Color>
+      <Scale value="98" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>16245 4607 6380</Position>
+      <NormalX value="120" />
+      <NormalY value="119" />
+      <Color>103 95 72</Color>
+      <Scale value="86" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63849 55748 55996</Position>
+      <NormalX value="126" />
+      <NormalY value="108" />
+      <Color>142 133 122</Color>
+      <Scale value="182" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>1534 9506 9897</Position>
+      <NormalX value="134" />
+      <NormalY value="116" />
+      <Color>150 139 135</Color>
+      <Scale value="50" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>44526 65260 64036</Position>
+      <NormalX value="118" />
+      <NormalY value="117" />
+      <Color>168 153 142</Color>
+      <Scale value="86" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>55840 60654 62909</Position>
+      <NormalX value="118" />
+      <NormalY value="117" />
+      <Color>124 109 83</Color>
+      <Scale value="199" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64000 58297 60823</Position>
+      <NormalX value="126" />
+      <NormalY value="107" />
+      <Color>142 133 122</Color>
+      <Scale value="182" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>55493 57070 58102</Position>
+      <NormalX value="126" />
+      <NormalY value="107" />
+      <Color>124 109 83</Color>
+      <Scale value="199" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="418.573456" y="1037.55408" z="218.834167" w="0" />
+     <max x="545.474854" y="1243.32312" z="256.280182" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_D971BBAE</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>64638 3817 4000</Position>
+      <NormalX value="106" />
+      <NormalY value="104" />
+      <Color>152 134 112</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2068 48929 48910</Position>
+      <NormalX value="127" />
+      <NormalY value="98" />
+      <Color>148 150 155</Color>
+      <Scale value="161" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>65130 4085 4473</Position>
+      <NormalX value="127" />
+      <NormalY value="103" />
+      <Color>89 90 81</Color>
+      <Scale value="120" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>81 65509 65470</Position>
+      <NormalX value="122" />
+      <NormalY value="105" />
+      <Color>174 160 144</Color>
+      <Scale value="106" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64681 25 46</Position>
+      <NormalX value="117" />
+      <NormalY value="105" />
+      <Color>191 164 128</Color>
+      <Scale value="47" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2829 48817 48693</Position>
+      <NormalX value="124" />
+      <NormalY value="103" />
+      <Color>174 148 129</Color>
+      <Scale value="185" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64724 1407 1330</Position>
+      <NormalX value="127" />
+      <NormalY value="104" />
+      <Color>184 159 128</Color>
+      <Scale value="45" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2421 48639 48491</Position>
+      <NormalX value="124" />
+      <NormalY value="101" />
+      <Color>148 150 155</Color>
+      <Scale value="161" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>65193 3550 3916</Position>
+      <NormalX value="127" />
+      <NormalY value="103" />
+      <Color>144 134 119</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64598 4163 4334</Position>
+      <NormalX value="106" />
+      <NormalY value="104" />
+      <Color>152 134 112</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>65009 3062 3351</Position>
+      <NormalX value="111" />
+      <NormalY value="103" />
+      <Color>144 134 119</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>65453 2946 3285</Position>
+      <NormalX value="127" />
+      <NormalY value="103" />
+      <Color>169 156 139</Color>
+      <Scale value="116" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="493.9254" y="964.5931" z="203.956055" w="0" />
+     <max x="547.7343" y="1020.24133" z="217.1085" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_D971BBAE</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>23200 17929 21045</Position>
+      <NormalX value="112" />
+      <NormalY value="127" />
+      <Color>181 162 140</Color>
+      <Scale value="51" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>36344 20117 27440</Position>
+      <NormalX value="114" />
+      <NormalY value="118" />
+      <Color>215 175 140</Color>
+      <Scale value="76" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>55187 41831 45063</Position>
+      <NormalX value="97" />
+      <NormalY value="118" />
+      <Color>147 138 122</Color>
+      <Scale value="178" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>20443 5010 20042</Position>
+      <NormalX value="95" />
+      <NormalY value="155" />
+      <Color>185 168 150</Color>
+      <Scale value="48" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63342 61402 58546</Position>
+      <NormalX value="91" />
+      <NormalY value="126" />
+      <Color>181 159 131</Color>
+      <Scale value="165" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>16199 4354 16669</Position>
+      <NormalX value="103" />
+      <NormalY value="139" />
+      <Color>186 163 132</Color>
+      <Scale value="47" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>45335 35017 34942</Position>
+      <NormalX value="112" />
+      <NormalY value="117" />
+      <Color>187 169 156</Color>
+      <Scale value="31" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>9713 1177 11324</Position>
+      <NormalX value="99" />
+      <NormalY value="130" />
+      <Color>63 68 64</Color>
+      <Scale value="152" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>48955 41910 39824</Position>
+      <NormalX value="109" />
+      <NormalY value="112" />
+      <Color>199 177 161</Color>
+      <Scale value="90" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>1217 2729 4982</Position>
+      <NormalX value="118" />
+      <NormalY value="107" />
+      <Color>139 107 83</Color>
+      <Scale value="20" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63137 64358 59575</Position>
+      <NormalX value="110" />
+      <NormalY value="107" />
+      <Color>201 165 134</Color>
+      <Scale value="209" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>15266 14321 16716</Position>
+      <NormalX value="113" />
+      <NormalY value="119" />
+      <Color>183 170 161</Color>
+      <Scale value="57" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>52924 37639 40855</Position>
+      <NormalX value="74" />
+      <NormalY value="133" />
+      <Color>189 167 137</Color>
+      <Scale value="109" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>5689 2659 7718</Position>
+      <NormalX value="97" />
+      <NormalY value="118" />
+      <Color>147 138 126</Color>
+      <Scale value="164" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63107 61648 58270</Position>
+      <NormalX value="91" />
+      <NormalY value="126" />
+      <Color>181 159 131</Color>
+      <Scale value="165" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>6098 2445 8057</Position>
+      <NormalX value="97" />
+      <NormalY value="118" />
+      <Color>147 138 126</Color>
+      <Scale value="164" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64318 63639 60553</Position>
+      <NormalX value="91" />
+      <NormalY value="113" />
+      <Color>201 165 134</Color>
+      <Scale value="209" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>8061 8541 11515</Position>
+      <NormalX value="110" />
+      <NormalY value="120" />
+      <Color>202 165 134</Color>
+      <Scale value="31" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>20203 16854 19467</Position>
+      <NormalX value="109" />
+      <NormalY value="129" />
+      <Color>193 170 144</Color>
+      <Scale value="39" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="999.5601" y="883.453" z="207.918121" w="0" />
+     <max x="1004.35425" y="907.4024" z="209.8031" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_AC3DE147</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>785 140 602</Position>
+      <NormalX value="120" />
+      <NormalY value="119" />
+      <Color>51 51 43</Color>
+      <Scale value="80" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>21052 65394 63949</Position>
+      <NormalX value="136" />
+      <NormalY value="115" />
+      <Color>178 156 131</Color>
+      <Scale value="19" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64176 52868 56180</Position>
+      <NormalX value="118" />
+      <NormalY value="117" />
+      <Color>99 76 53</Color>
+      <Scale value="191" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>3475 1569 2065</Position>
+      <NormalX value="120" />
+      <NormalY value="119" />
+      <Color>51 51 43</Color>
+      <Scale value="80" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64749 51586 54963</Position>
+      <NormalX value="118" />
+      <NormalY value="117" />
+      <Color>99 76 53</Color>
+      <Scale value="191" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="417.372162" y="1190.4021" z="246.558167" w="0" />
+     <max x="423.959717" y="1252.72693" z="257.9845" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_AC3DE147</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>48436 18931 20352</Position>
+      <NormalX value="127" />
+      <NormalY value="102" />
+      <Color>155 144 130</Color>
+      <Scale value="19" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>4114 62714 62364</Position>
+      <NormalX value="120" />
+      <NormalY value="104" />
+      <Color>163 151 133</Color>
+      <Scale value="102" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>62305 54 99</Position>
+      <NormalX value="116" />
+      <NormalY value="102" />
+      <Color>162 156 144</Color>
+      <Scale value="161" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>2981 53345 53141</Position>
+      <NormalX value="122" />
+      <NormalY value="105" />
+      <Color>157 147 135</Color>
+      <Scale value="51" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64962 537 630</Position>
+      <NormalX value="125" />
+      <NormalY value="103" />
+      <Color>162 156 144</Color>
+      <Scale value="161" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>572 62447 61991</Position>
+      <NormalX value="120" />
+      <NormalY value="104" />
+      <Color>163 151 133</Color>
+      <Scale value="102" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>4291 65255 64948</Position>
+      <NormalX value="121" />
+      <NormalY value="104" />
+      <Color>167 154 136</Color>
+      <Scale value="90" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>7737 65480 65273</Position>
+      <NormalX value="121" />
+      <NormalY value="104" />
+      <Color>167 154 136</Color>
+      <Scale value="90" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="501.349426" y="967.5521" z="205.639755" w="0" />
+     <max x="547.050537" y="1038.04846" z="219.732361" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_AC3DE147</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>1434 6416 4650</Position>
+      <NormalX value="112" />
+      <NormalY value="116" />
+      <Color>180 161 142</Color>
+      <Scale value="70" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>60453 64606 60885</Position>
+      <NormalX value="119" />
+      <NormalY value="105" />
+      <Color>191 152 120</Color>
+      <Scale value="31" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63358 49119 48457</Position>
+      <NormalX value="105" />
+      <NormalY value="109" />
+      <Color>201 174 141</Color>
+      <Scale value="157" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>10638 929 9053</Position>
+      <NormalX value="102" />
+      <NormalY value="141" />
+      <Color>171 150 120</Color>
+      <Scale value="63" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64102 48883 48606</Position>
+      <NormalX value="110" />
+      <NormalY value="107" />
+      <Color>197 173 142</Color>
+      <Scale value="199" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>12609 10841 10063</Position>
+      <NormalX value="108" />
+      <NormalY value="129" />
+      <Color>183 162 140</Color>
+      <Scale value="31" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63073 48643 47969</Position>
+      <NormalX value="107" />
+      <NormalY value="111" />
+      <Color>197 173 142</Color>
+      <Scale value="199" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63729 49392 48833</Position>
+      <NormalX value="110" />
+      <NormalY value="108" />
+      <Color>201 174 141</Color>
+      <Scale value="157" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>23459 14440 14583</Position>
+      <NormalX value="110" />
+      <NormalY value="129" />
+      <Color>181 163 145</Color>
+      <Scale value="0" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63387 48266 47804</Position>
+      <NormalX value="110" />
+      <NormalY value="107" />
+      <Color>197 173 142</Color>
+      <Scale value="199" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="417.2128" y="1192.6239" z="247.085663" w="0" />
+     <max x="424.286957" y="1255.565" z="258.520172" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_E764D794</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>27937 24310 24886</Position>
+      <NormalX value="118" />
+      <NormalY value="105" />
+      <Color>182 155 141</Color>
+      <Scale value="32" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>34881 22256 23098</Position>
+      <NormalX value="119" />
+      <NormalY value="104" />
+      <Color>192 161 141</Color>
+      <Scale value="41" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>6605 56505 56060</Position>
+      <NormalX value="121" />
+      <NormalY value="105" />
+      <Color>184 155 138</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>64407 3859 4564</Position>
+      <NormalX value="115" />
+      <NormalY value="103" />
+      <Color>171 146 131</Color>
+      <Scale value="5" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>1127 65399 64944</Position>
+      <NormalX value="121" />
+      <NormalY value="103" />
+      <Color>182 153 137</Color>
+      <Scale value="91" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>51351 135 267</Position>
+      <NormalX value="141" />
+      <NormalY value="107" />
+      <Color>169 146 131</Color>
+      <Scale value="108" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>3138 56243 55709</Position>
+      <NormalX value="121" />
+      <NormalY value="105" />
+      <Color>184 155 138</Color>
+      <Scale value="128" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+   <Item>
+    <BatchAABB>
+     <min x="502.5249" y="965.612061" z="206.349823" w="0" />
+     <max x="546.1604" y="1047.28357" z="220.751816" w="0" />
+    </BatchAABB>
+    <ScaleRange x="0.6" y="1.3" z="0.2" />
+    <archetypeName>hash_E764D794</archetypeName>
+    <lodDist value="40" />
+    <LodFadeStartDist value="20" />
+    <LodInstFadeRange value="0.75" />
+    <OrientToTerrain value="1" />
+    <InstanceList itemType="rage__fwGrassInstanceListDef__InstanceData">
+     <Item>
+      <Position>182 104 212</Position>
+      <NormalX value="99" />
+      <NormalY value="130" />
+      <Color>110 85 61</Color>
+      <Scale value="162" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>48195 22509 23012</Position>
+      <NormalX value="88" />
+      <NormalY value="135" />
+      <Color>179 143 117</Color>
+      <Scale value="50" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63015 65023 65066</Position>
+      <NormalX value="111" />
+      <NormalY value="103" />
+      <Color>195 161 130</Color>
+      <Scale value="76" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>17779 11304 9242</Position>
+      <NormalX value="110" />
+      <NormalY value="134" />
+      <Color>197 162 137</Color>
+      <Scale value="48" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>33946 13811 15329</Position>
+      <NormalX value="61" />
+      <NormalY value="197" />
+      <Color>199 161 129</Color>
+      <Scale value="73" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>60851 65430 64617</Position>
+      <NormalX value="106" />
+      <NormalY value="104" />
+      <Color>186 149 117</Color>
+      <Scale value="105" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>50303 28070 26443</Position>
+      <NormalX value="106" />
+      <NormalY value="118" />
+      <Color>202 164 138</Color>
+      <Scale value="74" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>65352 44419 44906</Position>
+      <NormalX value="110" />
+      <NormalY value="108" />
+      <Color>180 142 111</Color>
+      <Scale value="161" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>48431 27641 25813</Position>
+      <NormalX value="111" />
+      <NormalY value="112" />
+      <Color>197 161 135</Color>
+      <Scale value="102" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+     <Item>
+      <Position>63667 42452 42593</Position>
+      <NormalX value="107" />
+      <NormalY value="111" />
+      <Color>191 156 127</Color>
+      <Scale value="186" />
+      <Ao value="255" />
+      <Pad>0 0 0</Pad>
+     </Item>
+    </InstanceList>
+   </Item>
+  </GrassInstanceList>
+ </instancedData>
+ <timeCycleModifiers itemType="CTimeCycleModifier" />
+ <carGenerators itemType="CCarGen" />
+ <LODLightsSOA>
+  <direction itemType="FloatXYZ" />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+ </LODLightsSOA>
+ <DistantLODLightsSOA>
+  <position itemType="FloatXYZ" />
+  <RGBI />
+  <numStreetLights value="0" />
+  <category value="0" />
+ </DistantLODLightsSOA>
+ <block>
+  <version value="0" />
+  <flags value="0" />
+  <name></name>
+  <exportedBy>CodeWalker</exportedBy>
+  <owner></owner>
+  <time>05 julho 2026 06:13</time>
+ </block>
+</CMapData>

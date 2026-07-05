@@ -248,7 +248,7 @@
    <hdTextureDist value="5" />
    <name>hash_ADB31D0E</name>
    <textureDictionary>hash_D094C334</textureDictionary>
-   <clipDictionary>hash_A4A52CF4</clipDictionary>
+   <clipDictionary>apa_int_mp_h_05</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -959,7 +959,7 @@
    <hdTextureDist value="5" />
    <name>hash_00FDC421</name>
    <textureDictionary>hash_D094C334</textureDictionary>
-   <clipDictionary>hash_A4A52CF4</clipDictionary>
+   <clipDictionary>apa_int_mp_h_05</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -1371,13 +1371,13 @@
    <bsCentre x="-6.00988" y="6.172733" z="4.050298" />
    <bsRadius value="20.8527" />
    <hdTextureDist value="30" />
-   <name>hash_9D62873C</name>
+   <name>apa_mp_h_05_shell</name>
    <textureDictionary>hash_D094C334</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_9D62873C</assetName>
+   <assetName>apa_mp_h_05_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1643,7 +1643,7 @@
    <hdTextureDist value="5" />
    <name>hash_35BFF413</name>
    <textureDictionary>hash_D094C334</textureDictionary>
-   <clipDictionary>hash_A4A52CF4</clipDictionary>
+   <clipDictionary>apa_int_mp_h_05</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -1659,13 +1659,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_A64FB9A8</name>
+   <name>apa_v_mp_h_05</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>hash_2E9A58A4</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_A64FB9A8</assetName>
+   <assetName>apa_v_mp_h_05</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -4686,7 +4686,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_9D62873C</archetypeName>
+     <archetypeName>apa_mp_h_05_shell</archetypeName>
      <flags value="1572864" />
      <guid value="1699899244" />
      <position x="0" y="0" z="0" />
@@ -8218,7 +8218,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_A4A52CF4</name>
+ <name>apa_int_mp_h_05</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

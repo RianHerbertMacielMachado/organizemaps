@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_6816ADC7</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>favela_quebradashop</Item>
+    <Item>v_int_66</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_24A90D25</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>quebradashop36</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>v_int_66</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>v_bar</Item>
+    <Item>int_retail</Item>
+    <Item>v_sports</Item>
+    <Item>v_fastfood</Item>
+    <Item>v_utility</Item>
+    <Item>v_coin_op</Item>
+    <Item>v_electrical</Item>
+    <Item>v_office</Item>
+    <Item>int_industrial</Item>
+    <Item>v_bins</Item>
+    <Item>v_storage</Item>
+    <Item>int_lev_des</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <itypName>quebradashop36</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_C4EF0EF0</Item>
+    <Item>favela_quebradashop</Item>
+    <Item>imp_prop_impexp_car_parts</Item>
+    <Item>v_office</Item>
+    <Item>v_bins</Item>
+    <Item>v_lev_doors</Item>
+    <Item>int_retail</Item>
+    <Item>cs_hlun_lod</Item>
+    <Item>v_industrial_2</Item>
+    <Item>v_rubbish</Item>
+    <Item>hei_dlc_heist_police</Item>
+    <Item>v_storage</Item>
+    <Item>bkr_mp_biker_fakeid</Item>
+    <Item>bkr_biker_dlc_int_ware05</Item>
+    <Item>int_corporate</Item>
+    <Item>tr_prop_tr_accs_01</Item>
+    <Item>cutsobjects</Item>
+    <Item>int_lev_des</Item>
+    <Item>int_medical</Item>
+    <Item>vw_prop_vw_casino_art_02</Item>
+    <Item>v_fastfood</Item>
+    <Item>quebradashopgraf</Item>
+    <Item>detailrua1</Item>
+    <Item>v_bar</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles" />
+</CPackFileMetaData>

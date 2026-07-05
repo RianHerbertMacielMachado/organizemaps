@@ -11,13 +11,13 @@
    <bsCentre x="-0.0259705" y="0.9422636" z="-0.000823" />
    <bsRadius value="138681" />
    <hdTextureDist value="100" />
-   <name>hash_C13BFFF4</name>
-   <textureDictionary>hash_C13BFFF4</textureDictionary>
+   <name>1quebradashopfarmts2_shell</name>
+   <textureDictionary>1quebradashopfarmts2_shell</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_C13BFFF4</assetName>
+   <assetName>1quebradashopfarmts2_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="8.4753" y="3.03797" z="-0.119196" />
    <bsRadius value="3.33727" />
    <hdTextureDist value="78.7544" />
-   <name>hash_083251FB</name>
-   <textureDictionary>hash_083251FB</textureDictionary>
+   <name>1quebradashopfarmts2_detail2</name>
+   <textureDictionary>1quebradashopfarmts2_detail2</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_083251FB</physicsDictionary>
+   <physicsDictionary>1quebradashopfarmts2_detail2</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_083251FB</assetName>
+   <assetName>1quebradashopfarmts2_detail2</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -47,13 +47,13 @@
    <bsCentre x="-0.0212092" y="1.09086" z="-4.21108" />
    <bsRadius value="1682" />
    <hdTextureDist value="93.9225" />
-   <name>hash_9C415146</name>
-   <textureDictionary>hash_9C415146</textureDictionary>
+   <name>1quebradashopfarmts2_ext</name>
+   <textureDictionary>1quebradashopfarmts2_ext</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_9C415146</physicsDictionary>
+   <physicsDictionary>1quebradashopfarmts2_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_9C415146</assetName>
+   <assetName>1quebradashopfarmts2_ext</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="-1.37439" y="3E-07" z="0" />
    <bsRadius value="6.14903" />
    <hdTextureDist value="81.91771" />
-   <name>hash_014B2480</name>
-   <textureDictionary>hash_014B2480</textureDictionary>
+   <name>1quebradashopfarmts2_detail</name>
+   <textureDictionary>1quebradashopfarmts2_detail</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_014B2480</physicsDictionary>
+   <physicsDictionary>1quebradashopfarmts2_detail</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_014B2480</assetName>
+   <assetName>1quebradashopfarmts2_detail</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -83,13 +83,13 @@
    <bsCentre x="-0.0669799" y="-1.09786" z="-0.831845" />
    <bsRadius value="131322" />
    <hdTextureDist value="89.7737" />
-   <name>hash_FD733C7D</name>
-   <textureDictionary>hash_FD733C7D</textureDictionary>
+   <name>1quebradashopfarmts2_detail1</name>
+   <textureDictionary>1quebradashopfarmts2_detail1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_FD733C7D</physicsDictionary>
+   <physicsDictionary>1quebradashopfarmts2_detail1</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_FD733C7D</assetName>
+   <assetName>1quebradashopfarmts2_detail1</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -101,18 +101,18 @@
    <bsCentre x="-0.0259705" y="0.9422636" z="-0.000823" />
    <bsRadius value="13.8681" />
    <hdTextureDist value="5" />
-   <name>hash_A976BF52</name>
+   <name>1quebradashopfarmts2_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_A976BF52</assetName>
+   <assetName>1quebradashopfarmts2_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_C13BFFF4</archetypeName>
+     <archetypeName>1quebradashopfarmts2_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -131,7 +131,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_014B2480</archetypeName>
+     <archetypeName>1quebradashopfarmts2_detail</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-4.713959" y="1.624176" z="-0.02551842" />
@@ -150,7 +150,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_FD733C7D</archetypeName>
+     <archetypeName>1quebradashopfarmts2_detail1</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="0.00433028" y="2.15971" z="-0.59375" />
@@ -169,7 +169,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_083251FB</archetypeName>
+     <archetypeName>1quebradashopfarmts2_detail2</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="-0.1435496" y="2.171728" z="-0.5952911" />
@@ -3817,7 +3817,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_FF083D9B</archetypeName>
+     <archetypeName>qssom</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="1.470152" y="4.00887966" z="-1.07875061" />
@@ -3836,7 +3836,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_3AE1A833</archetypeName>
+     <archetypeName>quebradashop_dj</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="1.47010827" y="3.10117531" z="-0.565887451" />
@@ -4083,7 +4083,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_DCD176BD</name>
+ <name>1quebradashopfarmts2</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -1197,13 +1197,13 @@
    <bsCentre x="-6.00988" y="6.24849367" z="4.0500803" />
    <bsRadius value="20.90291" />
    <hdTextureDist value="30" />
-   <name>hash_A65622D2</name>
+   <name>apa_mpa3_shell</name>
    <textureDictionary>hash_85659BAB</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_A65622D2</assetName>
+   <assetName>apa_mpa3_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1485,13 +1485,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_C1C57093</name>
+   <name>apa_v_mp_h_03</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>hash_100C9B89</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_C1C57093</assetName>
+   <assetName>apa_v_mp_h_03</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -4638,7 +4638,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_A65622D2</archetypeName>
+     <archetypeName>apa_mpa3_shell</archetypeName>
      <flags value="18350080" />
      <guid value="3313090054" />
      <position x="0" y="0" z="0" />
@@ -8157,7 +8157,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_0EF1818F</name>
+ <name>apa_int_mp_h_03</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

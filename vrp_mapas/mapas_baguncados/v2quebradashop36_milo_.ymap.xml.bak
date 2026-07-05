@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name />
+ <parent />
+ <flags value="0" />
+ <contentFlags value="73" />
+ <streamingExtentsMin x="1041.536" y="-1763.244" z="-288.485" />
+ <streamingExtentsMax x="1677.337" y="-1107.057" z="381.9706" />
+ <entitiesExtentsMin x="1346.726" y="-1458.053" z="11.51504" />
+ <entitiesExtentsMax x="1372.147" y="-1412.247" z="81.97067" />
+ <entities>
+  <Item type="CEntityDef">
+   <archetypeName>hash_4BDF7460</archetypeName>
+   <flags value="1572864" />
+   <guid value="2386869341" />
+   <position x="1357.179" y="-1441.921" z="74.25984" />
+   <rotation x="0" y="0" z="-0.7132506" w="-0.7009092" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="120" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CMloInstanceDef">
+   <archetypeName>hash_9B39307B</archetypeName>
+   <flags value="1572864" />
+   <guid value="2386869341" />
+   <position x="1360.298" y="-1429.917" z="70.5156" />
+   <rotation x="0" y="0" z="0.7132506" w="-0.7009092" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="120" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+   <groupId value="0" />
+   <floorId value="0" />
+   <defaultEntitySets />
+   <numExitPortals value="0" />
+   <MLOInstflags value="0" />
+  </Item>
+ </entities>
+ <containerLods itemType="rage__fwContainerLodDef" />
+ <boxOccluders itemType="BoxOccluder" />
+ <occludeModels itemType="OccludeModel" />
+ <physicsDictionaries>
+  <Item>models</Item>
+ </physicsDictionaries>
+ <instancedData>
+  <ImapLink />
+  <PropInstanceList itemType="rage__fwPropInstanceListDef" />
+  <GrassInstanceList itemType="rage__fwGrassInstanceListDef" />
+ </instancedData>
+ <timeCycleModifiers itemType="CTimeCycleModifier" />
+ <carGenerators itemType="CCarGen" />
+ <LODLightsSOA>
+  <direction itemType="FloatXYZ" />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+ </LODLightsSOA>
+ <DistantLODLightsSOA>
+  <position itemType="FloatXYZ" />
+  <RGBI />
+  <numStreetLights value="0" />
+  <category value="0" />
+ </DistantLODLightsSOA>
+ <block>
+  <version value="0" />
+  <flags value="0" />
+  <name></name>
+  <exportedBy>CodeWalker</exportedBy>
+  <owner></owner>
+  <time>05 julho 2026 06:14</time>
+ </block>
+</CMapData>

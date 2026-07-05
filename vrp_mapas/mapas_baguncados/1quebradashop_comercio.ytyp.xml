@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="300" />
-   <name>hash_AC4A484C</name>
-   <textureDictionary>hash_DAC99FC2</textureDictionary>
+   <name>1quebradashop_comercio_shell</name>
+   <textureDictionary>cs_8646_lod</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_AC4A484C</assetName>
+   <assetName>1quebradashop_comercio_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-2.02638" y="1.00088" z="-4.14899" />
    <bsRadius value="13.5609" />
    <hdTextureDist value="90.25611" />
-   <name>hash_52772F2E</name>
-   <textureDictionary>hash_DAC99FC2</textureDictionary>
+   <name>1quebradashop_comercio_ext</name>
+   <textureDictionary>cs_8646_lod</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_52772F2E</physicsDictionary>
+   <physicsDictionary>1quebradashop_comercio_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_52772F2E</assetName>
+   <assetName>1quebradashop_comercio_ext</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -47,18 +47,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_D407622A</name>
+   <name>1quebradashop_comercio_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_D407622A</assetName>
+   <assetName>1quebradashop_comercio_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_AC4A484C</archetypeName>
+     <archetypeName>1quebradashop_comercio_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -2053,7 +2053,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_52C04FAF</archetypeName>
+     <archetypeName>mesaferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="2.443878" y="-0.7868195" z="0.6837864" />
@@ -2167,7 +2167,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2923B40B</archetypeName>
+     <archetypeName>estufavb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="1.36615" y="2.090607" z="1.496883" />
@@ -2186,7 +2186,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="3.437713" y="-0.7868195" z="0.6837864" />
@@ -2205,7 +2205,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="2.37915" y="0.2945251" z="0.8136158" />
@@ -2224,7 +2224,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="2.416992" y="-1.894135" z="0.8136158" />
@@ -2243,7 +2243,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="1.674194" y="-0.5758972" z="0.6837864" />
@@ -2262,7 +2262,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-0.9589538" y="-3.308182" z="0.8136158" />
@@ -2281,7 +2281,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-1.701752" y="-1.989944" z="0.6837864" />
@@ -2300,7 +2300,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_52C04FAF</archetypeName>
+     <archetypeName>mesaferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-0.9320679" y="-2.200867" z="0.6837864" />
@@ -2319,7 +2319,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="0.06176758" y="-2.200867" z="0.6837864" />
@@ -2338,7 +2338,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-0.9967957" y="-1.119522" z="0.8136158" />
@@ -2780,7 +2780,7 @@
    <extensions />
   </Item>
  </archetypes>
- <name>hash_F654A4E0</name>
+ <name>1quebradashop_comercio</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -2700,13 +2700,13 @@
    <bsCentre x="0.00178718567" y="-4.13888645" z="0.00581407547" />
    <bsRadius value="13.42452" />
    <hdTextureDist value="20" />
-   <name>hash_DC769605</name>
+   <name>v_16_mid_shell</name>
    <textureDictionary>hash_274CD787</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_DC769605</assetName>
+   <assetName>v_16_mid_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -2838,7 +2838,7 @@
    <textureDictionary>hash_274CD787</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_AA8789C1</physicsDictionary>
+   <physicsDictionary>v_apart_midspaz</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
    <assetName>hash_6EF33D3E</assetName>
    <extensions />
@@ -2874,7 +2874,7 @@
    <textureDictionary>hash_FC9A4622</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_A0F64DF9</physicsDictionary>
+   <physicsDictionary>v_studio_lo</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
    <assetName>hash_ABBDA7A4</assetName>
    <extensions />
@@ -3591,13 +3591,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_AA8789C1</name>
+   <name>v_apart_midspaz</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_AA8789C1</physicsDictionary>
+   <physicsDictionary>v_apart_midspaz</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_AA8789C1</assetName>
+   <assetName>v_apart_midspaz</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -5787,7 +5787,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_DC769605</archetypeName>
+     <archetypeName>v_16_mid_shell</archetypeName>
      <flags value="1572864" />
      <guid value="877663843" />
      <position x="2.29760742" y="-1.331912" z="1.292537" />
@@ -6892,13 +6892,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_95A20892</name>
+   <name>v_apartment_high</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_95A20892</physicsDictionary>
+   <physicsDictionary>v_apartment_high</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_95A20892</assetName>
+   <assetName>v_apartment_high</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -12588,13 +12588,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_A0F64DF9</name>
+   <name>v_studio_lo</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_A0F64DF9</physicsDictionary>
+   <physicsDictionary>v_studio_lo</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_A0F64DF9</assetName>
+   <assetName>v_studio_lo</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -16501,7 +16501,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_43536A8D</name>
+ <name>v_int_16</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

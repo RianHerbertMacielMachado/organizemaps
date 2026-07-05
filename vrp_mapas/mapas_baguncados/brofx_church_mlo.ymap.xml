@@ -10,7 +10,7 @@
  <entitiesExtentsMax x="-753.699951" y="16.5173359" z="53.61136" />
  <entities>
   <Item type="CMloInstanceDef">
-   <archetypeName>hash_483F2686</archetypeName>
+   <archetypeName>brofx_church_collision</archetypeName>
    <flags value="1572864" />
    <guid value="0" />
    <position x="-774.5197" y="-10.7344" z="53.61136" />
@@ -38,7 +38,7 @@
  <boxOccluders itemType="BoxOccluder" />
  <occludeModels itemType="OccludeModel" />
  <physicsDictionaries>
-  <Item>hash_483F2686</Item>
+  <Item>brofx_church_collision</Item>
  </physicsDictionaries>
  <instancedData>
   <ImapLink />

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes name="kokkurisp1_11_02">
+ <extensions />
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="500" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-83.46582" y="-73.94238" z="-8.001713" />
+   <bbMax x="83.46584" y="35.17725" z="22.43442" />
+   <bsCentre x="8E-06" y="-19.38257" z="7.216353" />
+   <bsRadius value="100.8707" />
+   <hdTextureDist value="5" />
+   <name>hash_B31307F6</name>
+   <textureDictionary>hash_B0AFC1B1</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_B31307F6</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B31307F6</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="500" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-77.46307" y="-71.35547" z="-8.288473" />
+   <bbMax x="77.46307" y="65.45947" z="17.78167" />
+   <bsCentre x="0" y="-2.947998" z="4.746596" />
+   <bsRadius value="104.1634" />
+   <hdTextureDist value="5" />
+   <name>hash_ECCDFB6B</name>
+   <textureDictionary>hash_B0AFC1B1</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_ECCDFB6B</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_ECCDFB6B</assetName>
+   <extensions />
+  </Item>
+ </archetypes>
+ <name />
+ <dependencies />
+ <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

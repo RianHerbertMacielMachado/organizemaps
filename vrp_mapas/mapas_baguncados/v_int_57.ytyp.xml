@@ -487,7 +487,7 @@
    <textureDictionary>hash_F135146A</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_20D7E464</physicsDictionary>
+   <physicsDictionary>v_franklins</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
    <assetName>hash_C188CC7B</assetName>
    <extensions />
@@ -541,7 +541,7 @@
    <textureDictionary>hash_11DADBFB</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_20D7E464</physicsDictionary>
+   <physicsDictionary>v_franklins</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
    <assetName>hash_B4C616E7</assetName>
    <extensions />
@@ -555,13 +555,13 @@
    <bsCentre x="0" y="-0.0269021988" z="0.0696120262" />
    <bsRadius value="9.978462" />
    <hdTextureDist value="20" />
-   <name>hash_36B453F3</name>
+   <name>v_57_franklin_int</name>
    <textureDictionary>hash_0934D0D2</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_36B453F3</assetName>
+   <assetName>v_57_franklin_int</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1415,7 +1415,7 @@
    <hdTextureDist value="5" />
    <name>hash_947A77ED</name>
    <textureDictionary>hash_1CD3EF8C</textureDictionary>
-   <clipDictionary>hash_D5AA0A5C</clipDictionary>
+   <clipDictionary>v_int_57</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -1930,13 +1930,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_20D7E464</name>
+   <name>v_franklins</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_20D7E464</physicsDictionary>
+   <physicsDictionary>v_franklins</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_20D7E464</assetName>
+   <assetName>v_franklins</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -5855,7 +5855,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_36B453F3</archetypeName>
+     <archetypeName>v_57_franklin_int</archetypeName>
      <flags value="555220992" />
      <guid value="1476023258" />
      <position x="-2.014307" y="2.832066" z="1.497146" />
@@ -7225,7 +7225,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_D5AA0A5C</name>
+ <name>v_int_57</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

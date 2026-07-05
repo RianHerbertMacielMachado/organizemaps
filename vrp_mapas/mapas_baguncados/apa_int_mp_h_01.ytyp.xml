@@ -13,7 +13,7 @@
    <hdTextureDist value="5" />
    <name>hash_86CE818E</name>
    <textureDictionary>hash_643D3190</textureDictionary>
-   <clipDictionary>hash_6D7FBEAA</clipDictionary>
+   <clipDictionary>apa_int_mp_h_01</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -31,7 +31,7 @@
    <hdTextureDist value="5" />
    <name>hash_D1B89765</name>
    <textureDictionary>hash_643D3190</textureDictionary>
-   <clipDictionary>hash_6D7FBEAA</clipDictionary>
+   <clipDictionary>apa_int_mp_h_01</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -887,7 +887,7 @@
    <hdTextureDist value="5" />
    <name>hash_6AC0B65B</name>
    <textureDictionary>hash_643D3190</textureDictionary>
-   <clipDictionary>hash_6D7FBEAA</clipDictionary>
+   <clipDictionary>apa_int_mp_h_01</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -1336,13 +1336,13 @@
    <bsCentre x="-6.00988" y="6.172733" z="3.80368233" />
    <bsRadius value="20.90201" />
    <hdTextureDist value="30" />
-   <name>hash_17E959A1</name>
+   <name>apa_mp_h_01_shell</name>
    <textureDictionary>hash_643D3190</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_17E959A1</assetName>
+   <assetName>apa_mp_h_01_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1534,13 +1534,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_5B8AA41F</name>
+   <name>apa_v_mp_h_01</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>hash_6B89D282</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_5B8AA41F</assetName>
+   <assetName>apa_v_mp_h_01</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -4891,7 +4891,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_17E959A1</archetypeName>
+     <archetypeName>apa_mp_h_01_shell</archetypeName>
      <flags value="1572864" />
      <guid value="2044588848" />
      <position x="0" y="0" z="0" />
@@ -8362,7 +8362,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_6D7FBEAA</name>
+ <name>apa_int_mp_h_01</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

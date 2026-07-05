@@ -11,13 +11,13 @@
    <bsCentre x="-2.112324" y="1.458865" z="1.875765" />
    <bsRadius value="429954" />
    <hdTextureDist value="100" />
-   <name>hash_E93345F2</name>
-   <textureDictionary>hash_29E5B098</textureDictionary>
+   <name>quebradashop18_shell</name>
+   <textureDictionary>casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_E93345F2</assetName>
+   <assetName>quebradashop18_shell</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="-2.112324" y="1.458865" z="1.875765" />
    <bsRadius value="4.29954" />
    <hdTextureDist value="5" />
-   <name>hash_8D914645</name>
+   <name>quebradashop18_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_8D914645</assetName>
+   <assetName>quebradashop18_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_E93345F2</archetypeName>
+     <archetypeName>quebradashop18_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -59,7 +59,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C4BD4767</archetypeName>
+     <archetypeName>qsv_52_clothing02</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-0.857399166" y="-1.30550027" z="1.113266" />
@@ -116,7 +116,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7D251DE7</archetypeName>
+     <archetypeName>qsv_51_clothing03</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="0.250341564" y="1.644711" z="1.93936157" />
@@ -135,7 +135,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_FAEC9978</archetypeName>
+     <archetypeName>qsv_51_clothing08</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-4.510254" y="1.39453125" z="1.896656" />
@@ -154,7 +154,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_65ED89C9</archetypeName>
+     <archetypeName>qsv_52_clothing07</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-3.00109863" y="1.79321289" z="1.20785522" />
@@ -173,7 +173,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_BED4BB96</archetypeName>
+     <archetypeName>qsv_52_clothing08</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-1.298706" y="1.87817383" z="1.10581589" />
@@ -192,7 +192,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D656F75A</archetypeName>
+     <archetypeName>qsbalcao2</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-2.97485352" y="-0.44140625" z="0.8367195" />
@@ -268,7 +268,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_20C8BE8E</archetypeName>
+     <archetypeName>nikit0_luz</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-2.13476563" y="1.77416992" z="2.12605286" />
@@ -287,7 +287,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_BAE1AED4</archetypeName>
+     <archetypeName>qs_quadro</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-3.285202" y="-1.59963107" z="2.22306824" />
@@ -358,7 +358,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_A3FF9DBB</name>
+ <name>quebradashop18</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

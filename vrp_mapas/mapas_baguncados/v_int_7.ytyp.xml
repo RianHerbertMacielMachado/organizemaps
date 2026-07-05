@@ -1217,13 +1217,13 @@
    <bsCentre x="0.07591963" y="-0.0245623589" z="-0.0842855" />
    <bsRadius value="7.293067" />
    <hdTextureDist value="5" />
-   <name>hash_29BD2C6D</name>
+   <name>v_7_shopposters</name>
    <textureDictionary>hash_A407586B</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_29BD2C6D</assetName>
+   <assetName>v_7_shopposters</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1408,13 +1408,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_FE693A97</name>
+   <name>v_gun</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_FE693A97</physicsDictionary>
+   <physicsDictionary>v_gun</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_FE693A97</assetName>
+   <assetName>v_gun</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -2977,7 +2977,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29BD2C6D</archetypeName>
+     <archetypeName>v_7_shopposters</archetypeName>
      <flags value="18350080" />
      <guid value="3185954368" />
      <position x="10.1760492" y="-0.422772646" z="1.75032043" />
@@ -4419,7 +4419,7 @@
    </timeCycleModifiers>
   </Item>
  </archetypes>
- <name>hash_D719D8ED</name>
+ <name>v_int_7</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

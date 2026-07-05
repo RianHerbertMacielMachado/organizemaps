@@ -11,13 +11,13 @@
    <bsCentre x="14.99189" y="47.44138" z="-1.450533" />
    <bsRadius value="14.7358" />
    <hdTextureDist value="87.9357" />
-   <name>hash_90C9C180</name>
+   <name>qshpilegal_shell</name>
    <textureDictionary>hash_CD11B5B3</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_90C9C180</assetName>
+   <assetName>qshpilegal_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="9.5E-07" y="0" z="0.02499986" />
    <bsRadius value="3.540297" />
    <hdTextureDist value="15" />
-   <name>hash_D1DC0D68</name>
+   <name>hpqsilegalgdoor</name>
    <textureDictionary>hash_C0C27140</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_D1DC0D68</physicsDictionary>
+   <physicsDictionary>hpqsilegalgdoor</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_D1DC0D68</assetName>
+   <assetName>hpqsilegalgdoor</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -47,13 +47,13 @@
    <bsCentre x="14.99189" y="47.44138" z="-1.450533" />
    <bsRadius value="14.7358" />
    <hdTextureDist value="87.9357" />
-   <name>hash_354D8680</name>
+   <name>qshpilegal_cage</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_354D8680</assetName>
+   <assetName>qshpilegal_cage</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="14.99189" y="47.44138" z="-1.450533" />
    <bsRadius value="14.7358" />
    <hdTextureDist value="87.9357" />
-   <name>hash_5E3C65FD</name>
+   <name>qshpilegal_det</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_5E3C65FD</assetName>
+   <assetName>qshpilegal_det</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -83,13 +83,13 @@
    <bsCentre x="14.99189" y="47.44138" z="-1.450533" />
    <bsRadius value="14.7358" />
    <hdTextureDist value="87.9357" />
-   <name>hash_B7F66E04</name>
+   <name>qshpilegal_light</name>
    <textureDictionary>hash_FAF8F32F</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_B7F66E04</assetName>
+   <assetName>qshpilegal_light</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -101,18 +101,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_2E9F1E50</name>
+   <name>qshpilegal_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_2E9F1E50</physicsDictionary>
+   <physicsDictionary>qshpilegal_col</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_2E9F1E50</assetName>
+   <assetName>qshpilegal_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_90C9C180</archetypeName>
+     <archetypeName>qshpilegal_shell</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -131,7 +131,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5E3C65FD</archetypeName>
+     <archetypeName>qshpilegal_det</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -150,7 +150,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_354D8680</archetypeName>
+     <archetypeName>qshpilegal_cage</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -169,7 +169,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_B7F66E04</archetypeName>
+     <archetypeName>qshpilegal_light</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -264,7 +264,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5D9B9482</archetypeName>
+     <archetypeName>lit1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="19.78107" y="52.02332" z="-2.954746" />
@@ -283,7 +283,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5D9B9482</archetypeName>
+     <archetypeName>lit1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="23.32867" y="51.71301" z="-2.954746" />
@@ -302,7 +302,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5D9B9482</archetypeName>
+     <archetypeName>lit1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="26.7959" y="51.40955" z="-2.954746" />
@@ -321,7 +321,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5D9B9482</archetypeName>
+     <archetypeName>lit1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="25.93536" y="43.87231" z="-2.954746" />
@@ -340,7 +340,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5D9B9482</archetypeName>
+     <archetypeName>lit1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="22.2442" y="44.19519" z="-2.954746" />
@@ -359,7 +359,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2C77585A</archetypeName>
+     <archetypeName>monitor_quebradashophp</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="24.47034" y="43.0398" z="-3.290514" />
@@ -378,7 +378,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_ACE22B6A</archetypeName>
+     <archetypeName>farmacia_quebradashophp</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="15.25806" y="42.12537" z="-3.248026" />
@@ -397,7 +397,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_655D2D90</archetypeName>
+     <archetypeName>drap1_lit_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="22.2384" y="44.19568" z="-2.954746" />
@@ -416,7 +416,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4C81D592</archetypeName>
+     <archetypeName>farmacia_quebradashophp2</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="7.704285" y="42.78625" z="-3.248026" />
@@ -435,7 +435,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29D9BF2A</archetypeName>
+     <archetypeName>mural1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="22.22992" y="42.97961" z="-1.785467" />
@@ -454,7 +454,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29D9BF2A</archetypeName>
+     <archetypeName>mural1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="25.82111" y="42.6654" z="-1.785467" />
@@ -473,7 +473,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D41968B4</archetypeName>
+     <archetypeName>potence2_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="21.22766" y="43.58154" z="-3.254641" />
@@ -492,7 +492,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7A18B859</archetypeName>
+     <archetypeName>potence3_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="26.80811" y="43.78638" z="-3.254641" />
@@ -530,7 +530,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29D9BF2A</archetypeName>
+     <archetypeName>mural1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="23.23578" y="52.9209" z="-1.785467" />
@@ -549,7 +549,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29D9BF2A</archetypeName>
+     <archetypeName>mural1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="26.80225" y="52.60889" z="-1.785467" />
@@ -568,7 +568,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_29D9BF2A</archetypeName>
+     <archetypeName>mural1_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="19.87085" y="53.21533" z="-1.785467" />
@@ -587,7 +587,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5CFCAD3F</archetypeName>
+     <archetypeName>respira_quebradashophp2</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="23.70581" y="43.10669" z="-3.290514" />
@@ -1043,7 +1043,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D1DC0D68</archetypeName>
+     <archetypeName>hpqsilegalgdoor</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="2.17565918" y="46.2365723" z="-1.56531906" />
@@ -1062,7 +1062,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2C77585A</archetypeName>
+     <archetypeName>monitor_quebradashophp</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="24.56854" y="52.55847" z="-3.290514" />
@@ -1081,7 +1081,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5CFCAD3F</archetypeName>
+     <archetypeName>respira_quebradashophp2</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="25.29834" y="52.48364" z="-3.290514" />
@@ -1100,7 +1100,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2C77585A</archetypeName>
+     <archetypeName>monitor_quebradashophp</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="21.23993" y="52.84973" z="-3.290514" />
@@ -1119,7 +1119,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5CFCAD3F</archetypeName>
+     <archetypeName>respira_quebradashophp2</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="21.97552" y="52.77441" z="-3.290514" />
@@ -1138,7 +1138,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_655D2D90</archetypeName>
+     <archetypeName>drap1_lit_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="19.78107" y="52.02332" z="-2.954746" />
@@ -1157,7 +1157,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_655D2D90</archetypeName>
+     <archetypeName>drap1_lit_hospital</archetypeName>
      <flags value="2147483681" />
      <guid value="0" />
      <position x="26.7959" y="51.40955" z="-2.954746" />

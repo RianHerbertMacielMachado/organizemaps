@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="100" />
-   <name>hash_66256C4A</name>
-   <textureDictionary>hash_66256C4A</textureDictionary>
+   <name>quebradashop_brkk_shell</name>
+   <textureDictionary>quebradashop_brkk_shell</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_66256C4A</assetName>
+   <assetName>quebradashop_brkk_shell</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_CBAC891D</name>
+   <name>quebradashop_brkk_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_CBAC891D</assetName>
+   <assetName>quebradashop_brkk_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_66256C4A</archetypeName>
+     <archetypeName>quebradashop_brkk_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -59,7 +59,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C35AAB48</archetypeName>
+     <archetypeName>quebradashop_brkk_sala</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-0.8770208" y="7.552157" z="6.799988" />
@@ -78,7 +78,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4F5CA788</archetypeName>
+     <archetypeName>quebradashop_brkk_banheiro</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="4.954799" y="-0.04950309" z="6.933502" />
@@ -97,7 +97,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_55B8DB5D</archetypeName>
+     <archetypeName>quebradashop_brkk_banheiro2</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-1.781406" y="-2.497144" z="6.635116" />
@@ -116,7 +116,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C54E001A</archetypeName>
+     <archetypeName>quebradashop_brkk_armario</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-3.353148" y="1.55586" z="6.863953" />
@@ -192,7 +192,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4F5CA788</archetypeName>
+     <archetypeName>quebradashop_brkk_banheiro</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-0.4743533" y="4.91164" z="3.457214" />
@@ -211,7 +211,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_86564AD2</archetypeName>
+     <archetypeName>quebradashop_brkk_pc</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="7.828672" y="-5.995304" z="3.130936" />
@@ -230,7 +230,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C6C8C679</archetypeName>
+     <archetypeName>quebradashop_brkk_cozinha</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-1.925727" y="-1.760862" z="3.610962" />
@@ -249,7 +249,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_F0D13566</archetypeName>
+     <archetypeName>quebradashop_brkk_quarto</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="5.665445" y="7.997378" z="3.298706" />
@@ -439,7 +439,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_54437B01</archetypeName>
+     <archetypeName>quebrada_rack</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="5.306497" y="4.123956" z="3.068252" />
@@ -800,7 +800,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C7209C78</archetypeName>
+     <archetypeName>qs_quadro1</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="8.113475" y="4.652344" z="7.212998" />
@@ -1142,7 +1142,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C43EDDF5</archetypeName>
+     <archetypeName>quebradafiltro</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-4.213553" y="1.57554" z="2.805145" />
@@ -1313,7 +1313,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_0C84273A</archetypeName>
+     <archetypeName>qs_quadro7</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="5.338865" y="-2.852597" z="3.778336" />
@@ -1408,7 +1408,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_48BD9836</archetypeName>
+     <archetypeName>quebradashop_brkk_sofa</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="4.061334" y="9.604252" z="6.113571" />
@@ -1427,7 +1427,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_6C0ACED8</archetypeName>
+     <archetypeName>quebradashop_brkk_sofa1</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-1.657843" y="8.672376" z="5.749374" />
@@ -2299,7 +2299,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_B1F9FEA2</name>
+ <name>quebradashop_brkk</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

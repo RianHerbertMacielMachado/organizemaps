@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+ <extensions />
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="110" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-28.31512" y="-39.8172" z="-1.450932" />
+   <bbMax x="42.33956" y="22.38802" z="13.57201" />
+   <bsCentre x="7.012216" y="-8.71459" z="6.060537" />
+   <bsRadius value="47.66356" />
+   <hdTextureDist value="5000" />
+   <name>hash_FEE9933D</name>
+   <textureDictionary>hash_3E9F79BB</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_FEE9933D</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_FEE9933D</name>
+     <offsetPosition x="27.99152" y="-23.37512" z="4.86034" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WATER_ROOF_DRIPS</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_FEE9933D</name>
+     <offsetPosition x="-4.646118" y="16.3822" z="7.468765" />
+     <offsetRotation x="0" y="0" z="0.7071069" w="0.7071069" />
+     <fxName>AMB_WATER_ROOF_DRIPS</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-3.639603" y="-1.038673" z="-1.845057" />
+   <bbMax x="3.639626" y="1.038689" z="1.845057" />
+   <bsCentre x="1.168E-05" y="7.99E-06" z="0" />
+   <bsRadius value="4.210687" />
+   <hdTextureDist value="50" />
+   <name>hash_5165243C</name>
+   <textureDictionary>hash_E56DDB62</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_5165243C</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-26.28248" y="-30.60301" z="-5.811277" />
+   <bbMax x="26.28246" y="29.02972" z="6.330542" />
+   <bsCentre x="-1.144E-05" y="-0.7866421" z="0.2596326" />
+   <bsRadius value="40.20745" />
+   <hdTextureDist value="5000" />
+   <name>hash_3E9F79BB</name>
+   <textureDictionary>hash_3E9F79BB</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_3E9F79BB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="110" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.125191" y="-11.18043" z="-3.638811" />
+   <bbMax x="26.1897" y="28.97736" z="1.712772" />
+   <bsCentre x="9.032257" y="8.898466" z="-0.9630196" />
+   <bsRadius value="26.54618" />
+   <hdTextureDist value="55" />
+   <name>hash_05E52238</name>
+   <textureDictionary>hash_05E52238</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_05E52238</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="111" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-52.30328" y="-56.25208" z="-3.679558" />
+   <bbMax x="43.1241" y="46.62621" z="5.327389" />
+   <bsCentre x="-4.589592" y="-4.812931" z="0.8239153" />
+   <bsRadius value="70.30549" />
+   <hdTextureDist value="55.5" />
+   <name>hash_2B60F954</name>
+   <textureDictionary>hash_F763A335</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_2B60F954</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2B60F954</name>
+     <offsetPosition x="38.49438" y="-14.82483" z="1.173473" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LEAVES</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2B60F954</name>
+     <offsetPosition x="32.25501" y="-25.30139" z="1.173473" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2B60F954</name>
+     <offsetPosition x="-30.72131" y="23.95435" z="1.173473" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2B60F954</name>
+     <offsetPosition x="38.49438" y="12.29749" z="1.173473" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="55" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-23.34265" y="-22.43103" z="-7.161745" />
+   <bbMax x="23.34265" y="22.43115" z="7.161746" />
+   <bsCentre x="1.91E-06" y="6.104E-05" z="4.8E-07" />
+   <bsRadius value="33.15605" />
+   <hdTextureDist value="55.5" />
+   <name>hash_FA8149DB</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_FA8149DB</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_FA8149DB</name>
+     <offsetPosition x="3.39685" y="-22.29529" z="-4.479927" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_MOTHS_NIGHTTIME</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_FA8149DB</name>
+     <offsetPosition x="-3.558472" y="-22.29529" z="-4.479927" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_MOTHS_NIGHTTIME</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_FA8149DB</name>
+     <offsetPosition x="-10.54016" y="-22.29529" z="-3.354626" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_MOTHS_NIGHTTIME</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-25.03401" y="-10.39328" z="-0.565079" />
+   <bbMax x="25.03403" y="10.3932" z="0.56508" />
+   <bsCentre x="9.54E-06" y="-3.719E-05" z="4.8E-07" />
+   <bsRadius value="27.11164" />
+   <hdTextureDist value="55.5" />
+   <name>hash_7EB1386E</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_7EB1386E</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-25.68938" y="-10.98666" z="-2.532357" />
+   <bbMax x="25.68937" y="10.55273" z="2.532358" />
+   <bsCentre x="-5.72E-06" y="-0.2169647" z="4.8E-07" />
+   <bsRadius value="27.9704" />
+   <hdTextureDist value="55.5" />
+   <name>hash_CD6FD5EA</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CD6FD5EA</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-23.83369" y="-2.066935" z="-2.978156" />
+   <bbMax x="23.83484" y="44.08018" z="-1.102297" />
+   <bsCentre x="0.0005722" y="21.00662" z="-2.040226" />
+   <bsRadius value="33.18646" />
+   <hdTextureDist value="55.5" />
+   <name>hash_A9ED8EE6</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_A9ED8EE6</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-21.68192" y="-30.79665" z="-3.231699" />
+   <bbMax x="21.75448" y="30.79665" z="3.231698" />
+   <bsCentre x="0.03627968" y="0" z="-4.8E-07" />
+   <bsRadius value="37.82272" />
+   <hdTextureDist value="55.5" />
+   <name>hash_B7802A0B</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B7802A0B</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="69" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.133117" y="-2.792381" z="-2.164118" />
+   <bbMax x="6.569107" y="2.965332" z="3.36125" />
+   <bsCentre x="-1.282005" y="0.08647561" z="0.5985658" />
+   <bsRadius value="8.806828" />
+   <hdTextureDist value="5000" />
+   <name>hash_07B24305</name>
+   <textureDictionary>hash_3E9F79BB</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_07B24305</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.812119" y="-1.183197" z="-2.14749" />
+   <bbMax x="1.450424" y="8.940811" z="1.768805" />
+   <bsCentre x="0.3191525" y="3.878807" z="-0.1893425" />
+   <bsRadius value="5.544187" />
+   <hdTextureDist value="50" />
+   <name>hash_30AE9B6E</name>
+   <textureDictionary>hash_E56DDB62</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_30AE9B6E</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="55" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-10.46411" y="-14.83225" z="-0.456611" />
+   <bbMax x="10.46407" y="14.83234" z="0.456611" />
+   <bsCentre x="-2.098E-05" y="4.482E-05" z="0" />
+   <bsRadius value="18.15772" />
+   <hdTextureDist value="55.5" />
+   <name>hash_E1375CCB</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_E1375CCB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="55" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-12.54294" y="-26.86051" z="-0.425366" />
+   <bbMax x="12.54295" y="26.86059" z="0.425368" />
+   <bsCentre x="6.68E-06" y="3.815E-05" z="9.8E-07" />
+   <bsRadius value="29.64786" />
+   <hdTextureDist value="55.5" />
+   <name>hash_EB7073F9</name>
+   <textureDictionary>hash_99C4C0E7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_EB7073F9</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.070555" y="-4.875957" z="-0.451148" />
+   <bbMax x="0.070602" y="4.87608" z="0.451149" />
+   <bsCentre x="2.35E-05" y="6.151E-05" z="5.1E-07" />
+   <bsRadius value="4.897354" />
+   <hdTextureDist value="50" />
+   <name>hash_001E6EB0</name>
+   <textureDictionary>hash_E56DDB62</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_001E6EB0</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-26.46998" y="-7.130775" z="-6.315611" />
+   <bbMax x="26.35034" y="7.130871" z="6.498766" />
+   <bsCentre x="-0.05982208" y="4.816E-05" z="0.09157753" />
+   <bsRadius value="28.09621" />
+   <hdTextureDist value="90" />
+   <name>hash_B954C8F7</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B954C8F7</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-2.644985" y="-2.971962" z="-3.528453" />
+   <bbMax x="2.644979" y="2.971945" z="3.528454" />
+   <bsCentre x="-3.1E-06" y="-8.58E-06" z="4.8E-07" />
+   <bsRadius value="5.317746" />
+   <hdTextureDist value="90" />
+   <name>hash_515D2CD3</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_515D2CD3</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-19.53782" y="-20.70546" z="-5.261899" />
+   <bbMax x="21.37244" y="20.70536" z="5.123316" />
+   <bsCentre x="0.9173088" y="-5.15E-05" z="-0.06929159" />
+   <bsRadius value="29.56501" />
+   <hdTextureDist value="50" />
+   <name>hash_BC37E1A2</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_BC37E1A2</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-57.37357" y="-27.74202" z="-7.01749" />
+   <bbMax x="25.56122" y="41.50791" z="7.01749" />
+   <bsCentre x="-15.90618" y="6.882946" z="0" />
+   <bsRadius value="54.4764" />
+   <hdTextureDist value="5000" />
+   <name>hash_70E89D9E</name>
+   <textureDictionary>hash_6BBBFCDA</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_70E89D9E</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_70E89D9E</name>
+     <offsetPosition x="-20.5896" y="-18.85718" z="-1.209631" />
+     <offsetRotation x="0" y="0" z="-0.2399519" w="0.9707848" />
+     <fxName>AMB_WATER_ROOF_DRIPS_SHORT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_70E89D9E</name>
+     <offsetPosition x="-20.5896" y="17.38355" z="-1.209631" />
+     <offsetRotation x="0" y="0" z="-0.2399519" w="0.9707848" />
+     <fxName>AMB_WATER_ROOF_DRIPS_SHORT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="75" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-63.50655" y="-21.97188" z="-8.550551" />
+   <bbMax x="38.28314" y="29.3593" z="9.0728" />
+   <bsCentre x="-12.61171" y="3.693714" z="0.2611246" />
+   <bsRadius value="57.67715" />
+   <hdTextureDist value="5000" />
+   <name>hash_36B5163B</name>
+   <textureDictionary>hash_6BBBFCDA</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_36B5163B</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-24.84772" y="-31.50842" z="-1.716354" />
+   <bbMax x="24.84766" y="31.50842" z="1.716354" />
+   <bsCentre x="-3.052E-05" y="0" z="0" />
+   <bsRadius value="40.16384" />
+   <hdTextureDist value="5000" />
+   <name>hash_3388BEE9</name>
+   <textureDictionary>hash_6BBBFCDA</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_3388BEE9</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-23.81214" y="-15.21216" z="-5.715793" />
+   <bbMax x="23.81212" y="15.21211" z="5.715793" />
+   <bsCentre x="-9.54E-06" y="-2.289E-05" z="0" />
+   <bsRadius value="28.82875" />
+   <hdTextureDist value="5000" />
+   <name>hash_435833C6</name>
+   <textureDictionary>hash_6BBBFCDA</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_435833C6</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="50" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-11.83284" y="-34.34651" z="-0.881644" />
+   <bbMax x="9.032071" y="16.15495" z="13.13711" />
+   <bsCentre x="-1.400385" y="-9.095779" z="6.127732" />
+   <bsRadius value="28.2058" />
+   <hdTextureDist value="50" />
+   <name>hash_07BDBC43</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_07BDBC43</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_07BDBC43</name>
+     <offsetPosition x="-9.414124" y="8.880738" z="3.463251" />
+     <offsetRotation x="-0.3869291" y="0.340556" z="0.6580029" w="0.5489441" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.2" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_07BDBC43</name>
+     <offsetPosition x="-9.414124" y="8.880738" z="7.67621" />
+     <offsetRotation x="0.5660659" y="-0.5644709" z="-0.4799159" w="-0.3614179" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.801" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-11.3581" y="-18.14033" z="-5.580901" />
+   <bbMax x="11.14682" y="18.14032" z="5.242498" />
+   <bsCentre x="-0.1056404" y="-5.72E-06" z="-0.1692019" />
+   <bsRadius value="22.02216" />
+   <hdTextureDist value="50" />
+   <name>hash_B93D9554</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B93D9554</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-37.25325" y="-21.829" z="-9.160561" />
+   <bbMax x="37.25329" y="21.829" z="9.160563" />
+   <bsCentre x="1.907E-05" y="0" z="1.91E-06" />
+   <bsRadius value="44.13873" />
+   <hdTextureDist value="50" />
+   <name>hash_D58157C7</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D58157C7</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D58157C7</name>
+     <offsetPosition x="-22.70282" y="1.38562" z="3.092381" />
+     <offsetRotation x="-0.2850049" y="0.2850049" z="-0.3985649" w="0.8238267" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.301" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D58157C7</name>
+     <offsetPosition x="-22.10687" y="-9.805054" z="4.459881" />
+     <offsetRotation x="0" y="0.3420199" z="0.9396927" w="0" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="3" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D58157C7</name>
+     <offsetPosition x="-2.10907" y="-2.981567" z="3.764313" />
+     <offsetRotation x="0" y="-0.21644" z="0.9762959" w="0" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.501" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D58157C7</name>
+     <offsetPosition x="5.063538" y="-9.805298" z="4.459881" />
+     <offsetRotation x="0" y="0.3420199" z="0.9396927" w="0" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.2" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-15.05314" y="-0.57465" z="-5.265429" />
+   <bbMax x="15.05309" y="0.574745" z="5.26543" />
+   <bsCentre x="-2.193E-05" y="4.75E-05" z="4.8E-07" />
+   <bsRadius value="15.9578" />
+   <hdTextureDist value="90" />
+   <name>hash_AADD73AC</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_AADD73AC</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-10.99956" y="-0.485878" z="-5.680986" />
+   <bbMax x="10.99957" y="0.485813" z="5.680986" />
+   <bsCentre x="3.81E-06" y="-3.248E-05" z="0" />
+   <bsRadius value="12.38951" />
+   <hdTextureDist value="90" />
+   <name>hash_D3FA6552</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D3FA6552</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.008667" y="-0.670532" z="-1.195316" />
+   <bbMax x="0.008667" y="0.671143" z="1.195309" />
+   <bsCentre x="0" y="0.00030553" z="-3.46E-06" />
+   <bsRadius value="1.370719" />
+   <hdTextureDist value="50" />
+   <name>hash_36D6868C</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_36D6868C</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.015076" y="-1.651489" z="-0.391409" />
+   <bbMax x="0.015076" y="1.651733" z="0.103546" />
+   <bsCentre x="0" y="0.00012207" z="-0.1439315" />
+   <bsRadius value="1.670117" />
+   <hdTextureDist value="50" />
+   <name>hash_36DB2AC0</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_36DB2AC0</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.011414" y="-0.881836" z="-0.821781" />
+   <bbMax x="0.011414" y="0.881836" z="0.798401" />
+   <bsCentre x="0" y="0" z="-0.01168996" />
+   <bsRadius value="1.197503" />
+   <hdTextureDist value="50" />
+   <name>hash_9E26E522</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_9E26E522</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.012329" y="-0.053101" z="-0.618958" />
+   <bbMax x="0.012329" y="0.052979" z="0.618958" />
+   <bsCentre x="0" y="-6.1E-05" z="0" />
+   <bsRadius value="0.6213487" />
+   <hdTextureDist value="50" />
+   <name>hash_266BA9A7</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_266BA9A7</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.015137" y="-1.229492" z="-0.161655" />
+   <bbMax x="0.015015" y="1.229492" z="0.045218" />
+   <bsCentre x="-6.1E-05" y="0" z="-0.05821849" />
+   <bsRadius value="1.233927" />
+   <hdTextureDist value="50" />
+   <name>hash_25071573</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_25071573</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-6.1E-05" y="-1.24585" z="-0.10231" />
+   <bbMax x="-6.1E-05" y="1.245728" z="0.043568" />
+   <bsCentre x="-6.1E-05" y="-6.092E-05" z="-0.029371" />
+   <bsRadius value="1.247922" />
+   <hdTextureDist value="50" />
+   <name>hash_86520D5D</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_86520D5D</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.007568" y="-1.263794" z="-0.148663" />
+   <bbMax x="0.007568" y="1.263794" z="0.045172" />
+   <bsCentre x="0" y="0" z="-0.0517455" />
+   <bsRadius value="1.267527" />
+   <hdTextureDist value="50" />
+   <name>hash_3579D1FB</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_3579D1FB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-6.1E-05" y="-0.051392" z="-1.307861" />
+   <bbMax x="6.1E-05" y="0.051392" z="1.307861" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="1.30887" />
+   <hdTextureDist value="50" />
+   <name>hash_C1DB668B</name>
+   <textureDictionary>hash_C2FFB1F7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_C1DB668B</assetName>
+   <extensions />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="45" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.956535" y="-28.23365" z="1.881521" />
+   <bbMax x="8.087188" y="12.80841" z="12.85119" />
+   <bsCentre x="-0.4346733" y="-7.712618" z="7.366357" />
+   <bsRadius value="22.88707" />
+   <hdTextureDist value="22.5" />
+   <name>hash_113B9E1A</name>
+   <textureDictionary>hash_42D7F7D7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_113B9E1A</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-10.05505" y="-17.88584" z="-3.459898" />
+   <bbMax x="10.70682" y="17.90031" z="-1.056583" />
+   <bsCentre x="0.3258829" y="0.00723839" z="-2.258241" />
+   <bsRadius value="20.72124" />
+   <hdTextureDist value="25" />
+   <name>hash_66A93F5A</name>
+   <textureDictionary>hash_42D7F7D7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_66A93F5A</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="180" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-33.17468" y="-15.09074" z="-5.091031" />
+   <bbMax x="30.06061" y="15.08705" z="4.910933" />
+   <bsCentre x="-1.557034" y="-0.00184441" z="-0.09004879" />
+   <bsRadius value="35.3887" />
+   <hdTextureDist value="50" />
+   <name>hash_776060C8</name>
+   <textureDictionary>hash_42D7F7D7</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_776060C8</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-7.900574" y="-0.03535" z="-0.523206" />
+   <bbMax x="7.900646" y="0.035286" z="0.523205" />
+   <bsCentre x="3.576E-05" y="-3.2E-05" z="-4.8E-07" />
+   <bsRadius value="7.917994" />
+   <hdTextureDist value="90" />
+   <name>hash_A47CBFB9</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_A47CBFB9</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-7.900576" y="-0.034857" z="-0.523419" />
+   <bbMax x="7.900658" y="0.034987" z="0.523417" />
+   <bsCentre x="4.101E-05" y="6.5E-05" z="-1.01E-06" />
+   <bsRadius value="7.918014" />
+   <hdTextureDist value="90" />
+   <name>hash_253140E4</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_253140E4</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.027214" y="-8.736852" z="-0.783513" />
+   <bbMax x="0.027172" y="8.736934" z="0.783516" />
+   <bsCentre x="-2.1E-05" y="4.101E-05" z="1.49E-06" />
+   <bsRadius value="8.771997" />
+   <hdTextureDist value="90" />
+   <name>hash_16DFA441</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_16DFA441</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.027224" y="-9.511021" z="-0.78357" />
+   <bbMax x="0.027176" y="9.511021" z="0.783572" />
+   <bsCentre x="-2.4E-05" y="0" z="1.01E-06" />
+   <bsRadius value="9.543283" />
+   <hdTextureDist value="90" />
+   <name>hash_CB860DCB</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CB860DCB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.10453" y="-8.150302" z="-4.74334" />
+   <bbMax x="1.104568" y="9.093143" z="4.743341" />
+   <bsCentre x="1.895E-05" y="0.4714212" z="4.8E-07" />
+   <bsRadius value="9.902193" />
+   <hdTextureDist value="90" />
+   <name>hash_D7B9B413</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D7B9B413</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.352855" y="-3.429741" z="-0.523419" />
+   <bbMax x="9.352803" y="3.429682" z="0.523417" />
+   <bsCentre x="-2.67E-05" y="-2.956E-05" z="-1.01E-06" />
+   <bsRadius value="9.975585" />
+   <hdTextureDist value="90" />
+   <name>hash_31665EB5</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_31665EB5</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.362154" y="-3.425895" z="-0.523419" />
+   <bbMax x="9.362112" y="3.425821" z="0.523417" />
+   <bsCentre x="-2.098E-05" y="-3.695E-05" z="-1.01E-06" />
+   <bsRadius value="9.982984" />
+   <hdTextureDist value="90" />
+   <name>hash_8ACE139F</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_8ACE139F</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-25.83076" y="-56.2801" z="0.354873" />
+   <bbMax x="-23.46363" y="-52.9359" z="6.374118" />
+   <bsCentre x="-24.6472" y="-54.608" z="3.364495" />
+   <bsRadius value="3.640684" />
+   <hdTextureDist value="90" />
+   <name>hash_A852ABF5</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_A852ABF5</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-12.50584" y="-3.389523" z="-7.500246" />
+   <bbMax x="12.50972" y="9.21588" z="7.166894" />
+   <bsCentre x="0.00194263" y="2.913178" z="-0.166676" />
+   <bsRadius value="15.8098" />
+   <hdTextureDist value="90" />
+   <name>hash_030E88CD</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_030E88CD</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="180" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-71.52619" y="-70.08581" z="-1.957873" />
+   <bbMax x="71.51013" y="68.66461" z="4.785371" />
+   <bsCentre x="-0.00802612" y="-0.7106018" z="1.413749" />
+   <bsRadius value="99.69521" />
+   <hdTextureDist value="90" />
+   <name>hash_2E3C1E4D</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_2E3C1E4D</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2E3C1E4D</name>
+     <offsetPosition x="-0.1674194" y="-6.325806" z="0.4287949" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2E3C1E4D</name>
+     <offsetPosition x="9.596985" y="45.05957" z="-0.4147987" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER_SWIRL</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2E3C1E4D</name>
+     <offsetPosition x="34.18768" y="-39.24646" z="0.6417866" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER_SWIRL</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2E3C1E4D</name>
+     <offsetPosition x="-18.77246" y="-39.4176" z="1.245901" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_WIND_LITTER_SWIRL</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="70" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.337473" y="-0.358104" z="-2.769665" />
+   <bbMax x="0.337566" y="0.357917" z="2.769661" />
+   <bsCentre x="4.649E-05" y="-9.349E-05" z="-2.15E-06" />
+   <bsRadius value="2.813027" />
+   <hdTextureDist value="90" />
+   <name>hash_BEEF1A24</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_BEEF1A24</assetName>
+   <extensions>
+    <Item type="CExtensionDefLadder">
+     <name>hash_BEEF1A24</name>
+     <offsetPosition x="0.2486053" y="-0.05435457" z="2.255554" />
+     <bottom x="0.248212" y="0.05599238" z="-2.244446" />
+     <top x="0.248212" y="0.05599238" z="2.255554" />
+     <normal x="0.9743701" y="0.224951" z="0" />
+     <materialType>METAL_SOLID_LADDER</materialType>
+     <template>hash_E4DF46D5</template>
+     <canGetOffAtTop value="true" />
+     <canGetOffAtBottom value="true" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="180" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-71.92939" y="-41.20731" z="-2.910764" />
+   <bbMax x="25.54415" y="40.94341" z="0.013666" />
+   <bsCentre x="-23.19262" y="-0.1319504" z="-1.448549" />
+   <bsRadius value="63.75418" />
+   <hdTextureDist value="90" />
+   <name>hash_FB5A2EF1</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_FB5A2EF1</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-27.60428" y="-52.97359" z="-13.10364" />
+   <bbMax x="27.25786" y="49.62999" z="13.10364" />
+   <bsCentre x="-0.1732101" y="-1.671802" z="0" />
+   <bsRadius value="59.63256" />
+   <hdTextureDist value="60" />
+   <name>hash_D70579A5</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D70579A5</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-18.11902" y="-27.90185" z="3.709457" />
+     <offsetRotation x="-0.030843" y="0.7064337" z="0.7064337" w="-0.030843" />
+     <fxName>AMB_STEAM_PIPE_HVY</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.5" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-17.18664" y="-27.82031" z="3.709457" />
+     <offsetRotation x="0.4777141" y="0.5213341" z="0.4777141" w="-0.5213341" />
+     <fxName>AMB_STEAM_PIPE_HVY</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.5" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-10.90778" y="-10.10315" z="1.758007" />
+     <offsetRotation x="0.7603951" y="0.246693" z="-0.5403911" w="0.262525" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.001" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-10.72791" y="-6.280274" z="2.778702" />
+     <offsetRotation x="0.9073383" y="0.07723502" z="-0.3691161" w="0.1858101" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.501" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-8.41626" y="-11.22717" z="-5.651947" />
+     <offsetRotation x="0.7594912" y="-0.09998901" z="0.637288" w="0.08390101" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.501" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-12.21765" y="31.74109" z="-5.828198" />
+     <offsetRotation x="0.6077441" y="0.4663391" z="0.5099571" w="-0.3913041" />
+     <fxName>AMB_STEAM_PIPE_LGT</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.601" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-6.655395" y="29.25256" z="1.153271" />
+     <offsetRotation x="0.7372773" y="-0.6755902" z="0" w="0" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="13.84467" y="21.03601" z="3.064198" />
+     <offsetRotation x="0.999251" y="0.01266" z="-0.033241" w="0.015241" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="0.8" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-15.46869" y="2.939453" z="4.819305" />
+     <offsetRotation x="0.6803817" y="-0.010361" z="0.7326366" w="-0.01473099" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="0.8" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="5.586914" y="18.54822" z="4.360096" />
+     <offsetRotation x="0.7204342" y="-0.1740761" z="0.6588213" w="0.128945" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="0.8" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="15.32062" y="10.48938" z="8.986251" />
+     <offsetRotation x="0" y="0" z="0.7372778" w="0.6755898" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.101" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="15.32361" y="12.12634" z="8.986251" />
+     <offsetRotation x="0" y="0" z="0.9990482" w="-0.04362002" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.701" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-5.405335" y="23.09314" z="4.206955" />
+     <offsetRotation x="0" y="0" z="-0.6755902" w="0.7372772" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="2.101" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D70579A5</name>
+     <offsetPosition x="-5.426086" y="21.47546" z="4.206955" />
+     <offsetRotation x="0" y="0" z="0.04362002" w="0.9990482" />
+     <fxName>AMB_STEAM_VENT_ROUND</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1.801" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.335911" y="-0.343113" z="-5.21028" />
+   <bbMax x="0.33588" y="0.342972" z="5.210279" />
+   <bsCentre x="-1.55E-05" y="-7.051E-05" z="-4.8E-07" />
+   <bsRadius value="5.232353" />
+   <hdTextureDist value="50" />
+   <name>hash_968F3F33</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_968F3F33</assetName>
+   <extensions>
+    <Item type="CExtensionDefLadder">
+     <name>hash_968F3F33</name>
+     <offsetPosition x="0.3123779" y="0.00500488" z="4.643356" />
+     <bottom x="0.3123779" y="0.00500488" z="-5.356644" />
+     <top x="0.3123779" y="0.00500488" z="4.643356" />
+     <normal x="0.999964" y="0.00848651" z="0" />
+     <materialType>METAL_SOLID_LADDER</materialType>
+     <template>hash_E4DF46D5</template>
+     <canGetOffAtTop value="true" />
+     <canGetOffAtBottom value="true" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="90" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.033337" y="-4.832523" z="-0.905697" />
+   <bbMax x="0.069508" y="4.832523" z="0.927367" />
+   <bsCentre x="0.0180855" y="0" z="0.01083499" />
+   <bsRadius value="4.918938" />
+   <hdTextureDist value="90" />
+   <name>hash_684E34F9</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_684E34F9</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="25" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.520004" y="-1.02" z="-1.898446" />
+   <bbMax x="0.52002" y="1.02" z="1.898446" />
+   <bsCentre x="8.05E-06" y="0" z="0" />
+   <bsRadius value="2.216959" />
+   <hdTextureDist value="90" />
+   <name>hash_52140885</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_52140885</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="25" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.903122" y="-0.78554" z="-4.747517" />
+   <bbMax x="0.903091" y="0.785423" z="4.747516" />
+   <bsCentre x="-1.55E-05" y="-5.853E-05" z="-4.8E-07" />
+   <bsRadius value="4.89607" />
+   <hdTextureDist value="90" />
+   <name>hash_1C6E9D7F</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_1C6E9D7F</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="25" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.397232" y="-1.290501" z="-0.413845" />
+   <bbMax x="0.397274" y="3.790391" z="0.413843" />
+   <bsCentre x="2.098E-05" y="1.249945" z="-1.01E-06" />
+   <bsRadius value="2.604408" />
+   <hdTextureDist value="90" />
+   <name>hash_4AA579EC</name>
+   <textureDictionary>hash_D6E4FE58</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_4AA579EC</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="300" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.231644" y="-0.235157" z="3E-06" />
+   <bbMax x="0.231529" y="0.235171" z="5E-06" />
+   <bsCentre x="-5.75E-05" y="7E-06" z="4E-06" />
+   <bsRadius value="0.3300521" />
+   <hdTextureDist value="60" />
+   <name>hash_D3B1FC41</name>
+   <textureDictionary>hash_4CF7286C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D3B1FC41</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_D3B1FC41</name>
+     <offsetPosition x="0.2944434" y="-0.4499568" z="0.3794747" />
+     <offsetRotation x="0" y="0" z="0.04362002" w="0.9990482" />
+     <fxName>AMB_SMOKE_FACTORY_WHITE</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0xFFFFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-27.52554" y="-55.94202" z="-5.305767" />
+   <bbMax x="29.41862" y="63.26964" z="11.863" />
+   <bsCentre x="0.946537" y="3.663811" z="3.278614" />
+   <bsRadius value="66.61236" />
+   <hdTextureDist value="5000" />
+   <name>hash_3134F7B5</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_3134F7B5</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="159" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-20.70439" y="-30.52527" z="-1.748449" />
+   <bbMax x="20.70443" y="30.5199" z="1.623932" />
+   <bsCentre x="2.098E-05" y="-0.00268555" z="-0.06225849" />
+   <bsRadius value="36.92078" />
+   <hdTextureDist value="79.5" />
+   <name>hash_5AF4F157</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_5AF4F157</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="180" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.174735" y="-2.977211" z="-0.205425" />
+   <bbMax x="0.151225" y="2.972969" z="0.205424" />
+   <bsCentre x="-0.011755" y="-0.00212097" z="-5.1E-07" />
+   <bsRadius value="2.986624" />
+   <hdTextureDist value="90" />
+   <name>hash_80668AA4</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_80668AA4</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="180" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.174735" y="-2.977211" z="-0.205425" />
+   <bbMax x="0.151225" y="2.972969" z="0.205424" />
+   <bsCentre x="-0.011755" y="-0.00212097" z="-5.1E-07" />
+   <bsRadius value="2.986624" />
+   <hdTextureDist value="90" />
+   <name>hash_E359D08D</name>
+   <textureDictionary>hash_2E3C1E4D</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_E359D08D</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="60" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-30.13016" y="-14.94534" z="-1.878736" />
+   <bbMax x="30.1793" y="15.09645" z="2.199951" />
+   <bsCentre x="0.02457047" y="0.0755539" z="0.1606073" />
+   <bsRadius value="33.75047" />
+   <hdTextureDist value="75" />
+   <name>hash_D14F79EA</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D14F79EA</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="35" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-17.66272" y="-17.43713" z="-1.786751" />
+   <bbMax x="17.42207" y="17.43719" z="1.971603" />
+   <bsCentre x="-0.120327" y="3.052E-05" z="0.09242606" />
+   <bsRadius value="24.80568" />
+   <hdTextureDist value="75" />
+   <name>hash_B7144574</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B7144574</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="55" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-27.86162" y="-25.57214" z="-2.031084" />
+   <bbMax x="27.98211" y="25.2886" z="2.281627" />
+   <bsCentre x="0.0602417" y="-0.1417694" z="0.1252713" />
+   <bsRadius value="37.82835" />
+   <hdTextureDist value="75" />
+   <name>hash_825DDC28</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_825DDC28</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="19" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.379808" y="-9.967118" z="-1.036461" />
+   <bbMax x="8.379867" y="10.02036" z="1.036465" />
+   <bsCentre x="2.956E-05" y="0.02662277" z="2.03E-06" />
+   <bsRadius value="13.08322" />
+   <hdTextureDist value="75" />
+   <name>hash_8D33F1D4</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_8D33F1D4</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="55" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-22.83443" y="-27.73753" z="-1.404079" />
+   <bbMax x="23.36388" y="27.34776" z="1.583627" />
+   <bsCentre x="0.2647266" y="-0.1948853" z="0.08977401" />
+   <bsRadius value="35.97778" />
+   <hdTextureDist value="75" />
+   <name>hash_57020571</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_57020571</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-78.92785" y="-62.7617" z="-5.449045" />
+   <bbMax x="59.36898" y="74.2416" z="0.687834" />
+   <bsCentre x="-9.779434" y="5.739944" z="-2.380606" />
+   <bsRadius value="97.38272" />
+   <hdTextureDist value="75" />
+   <name>hash_440F2E73</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_440F2E73</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="130" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-70.79208" y="-99.88675" z="-5.924942" />
+   <bbMax x="84.07776" y="79.40189" z="8.381638" />
+   <bsCentre x="6.642845" y="-10.24243" z="1.228348" />
+   <bsRadius value="118.6737" />
+   <hdTextureDist value="110" />
+   <name>hash_7ACA7DC4</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_7ACA7DC4</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="33685504" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.03182" y="-2.638424" z="-1.463412" />
+   <bbMax x="1.031841" y="2.638458" z="1.46341" />
+   <bsCentre x="1.049E-05" y="1.717E-05" z="-9.5E-07" />
+   <bsRadius value="3.18867" />
+   <hdTextureDist value="50" />
+   <name>hash_2EB75943</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_2EB75943</assetName>
+   <extensions>
+    <Item type="CExtensionDefAudioCollisionSettings">
+     <name>hash_2EB75943</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <settings>hash_FA029D64</settings>
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="33685504" />
+   <specialAttribute value="0" />
+   <bbMin x="-4.128032" y="-19.51852" z="-1.463411" />
+   <bbMax x="2.638797" y="20.00366" z="1.463411" />
+   <bsCentre x="-0.7446174" y="0.242569" z="0" />
+   <bsRadius value="20.10198" />
+   <hdTextureDist value="10" />
+   <name>hash_DCFFB5D5</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_DCFFB5D5</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="33685504" />
+   <specialAttribute value="0" />
+   <bbMin x="-2.524881" y="-2.199226" z="-1.463411" />
+   <bbMax x="2.524902" y="2.199254" z="1.463411" />
+   <bsCentre x="1.049E-05" y="1.407E-05" z="0" />
+   <bsRadius value="3.654217" />
+   <hdTextureDist value="10" />
+   <name>hash_C02F7C35</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_C02F7C35</assetName>
+   <extensions>
+    <Item type="CExtensionDefAudioCollisionSettings">
+     <name>hash_C02F7C35</name>
+     <offsetPosition x="0" y="0" z="0" />
+     <settings>hash_0E7F465D</settings>
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.345367" y="-2.657072" z="-5.406034" />
+   <bbMax x="0.34549" y="2.657011" z="5.406038" />
+   <bsCentre x="6.151E-05" y="-3.052E-05" z="1.91E-06" />
+   <bsRadius value="6.033607" />
+   <hdTextureDist value="65" />
+   <name>hash_5974358F</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_5974358F</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="40" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.408234" y="-1.422756" z="-5.459946" />
+   <bbMax x="1.408157" y="1.422806" z="5.459953" />
+   <bsCentre x="-3.85E-05" y="2.503E-05" z="3.34E-06" />
+   <bsRadius value="5.815355" />
+   <hdTextureDist value="65" />
+   <name>hash_CC9725FF</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CC9725FF</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.368207" y="-1.384564" z="-5.409602" />
+   <bbMax x="1.368329" y="1.384564" z="5.409596" />
+   <bsCentre x="6.104E-05" y="0" z="-2.86E-06" />
+   <bsRadius value="5.749169" />
+   <hdTextureDist value="65" />
+   <name>hash_2CC079C6</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_2CC079C6</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="40" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.771896" y="-1.829115" z="-5.459961" />
+   <bbMax x="0.771942" y="1.829058" z="5.459953" />
+   <bsCentre x="2.301E-05" y="-2.849E-05" z="-3.81E-06" />
+   <bsRadius value="5.809694" />
+   <hdTextureDist value="65" />
+   <name>hash_E0724DB9</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_E0724DB9</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.732059" y="-1.787662" z="-5.409605" />
+   <bbMax x="0.732059" y="1.787601" z="5.409611" />
+   <bsCentre x="0" y="-3.052E-05" z="2.86E-06" />
+   <bsRadius value="5.744162" />
+   <hdTextureDist value="65" />
+   <name>hash_9BC8B836</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_9BC8B836</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="40" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-2.117546" y="-1.784157" z="-5.514419" />
+   <bbMax x="2.117538" y="1.784164" z="5.514417" />
+   <bsCentre x="-4.05E-06" y="3.46E-06" z="-9.5E-07" />
+   <bsRadius value="6.170577" />
+   <hdTextureDist value="65" />
+   <name>hash_0231913B</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_0231913B</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-2.083099" y="-1.750091" z="-5.434535" />
+   <bbMax x="2.083099" y="1.750092" z="5.434534" />
+   <bsCentre x="0" y="6E-07" z="-4.8E-07" />
+   <bsRadius value="6.077523" />
+   <hdTextureDist value="65" />
+   <name>hash_0416B441</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_0416B441</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="40" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.384933" y="-2.697052" z="-5.456425" />
+   <bbMax x="0.384964" y="2.697083" z="5.456418" />
+   <bsCentre x="1.55E-05" y="1.55E-05" z="-3.34E-06" />
+   <bsRadius value="6.098762" />
+   <hdTextureDist value="65" />
+   <name>hash_32EC72B0</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_32EC72B0</assetName>
+   <extensions />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.051929" y="-8.233025" z="1.044256" />
+   <bbMax x="3.942135" y="9.938598" z="6.164786" />
+   <bsCentre x="-2.554897" y="0.852787" z="3.604521" />
+   <bsRadius value="11.45942" />
+   <hdTextureDist value="50" />
+   <name>hash_7426824C</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_7426824C</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-6.618538" y="-11.41612" z="1.002415" />
+   <bbMax x="8.519313" y="7.850739" z="6.404357" />
+   <bsCentre x="0.9503875" y="-1.782689" z="3.703386" />
+   <bsRadius value="12.54539" />
+   <hdTextureDist value="50" />
+   <name>hash_E67EE6FB</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_E67EE6FB</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.279236" y="-6.731083" z="1.044271" />
+   <bbMax x="4.124893" y="10.07627" z="6.164802" />
+   <bsCentre x="-2.577171" y="1.672592" z="3.604537" />
+   <bsRadius value="11.04963" />
+   <hdTextureDist value="50" />
+   <name>hash_F22FFFD9</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_F22FFFD9</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-6.708424" y="-6.373644" z="1.316032" />
+   <bbMax x="8.6665" y="7.91367" z="6.355196" />
+   <bsCentre x="0.9790378" y="0.7700129" z="3.835614" />
+   <bsRadius value="10.79246" />
+   <hdTextureDist value="50" />
+   <name>hash_BB69924D</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_BB69924D</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.13755" y="-5.103924" z="1.044317" />
+   <bbMax x="7.201897" y="9.303909" z="6.164847" />
+   <bsCentre x="-0.4678268" y="2.099993" z="3.604582" />
+   <bsRadius value="10.82941" />
+   <hdTextureDist value="50" />
+   <name>hash_CDB436E2</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CDB436E2</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-5.430138" y="-4.456055" z="1.044332" />
+   <bbMax x="10.29353" y="10.02441" z="6.164863" />
+   <bsCentre x="2.431697" y="2.784179" z="3.604598" />
+   <bsRadius value="10.9902" />
+   <hdTextureDist value="50" />
+   <name>hash_26C3E900</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_26C3E900</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-2.603851" y="-8.45272" z="1.044302" />
+   <bbMax x="7.267418" y="8.36731" z="6.164832" />
+   <bsCentre x="2.331784" y="-0.04270554" z="3.604567" />
+   <bsRadius value="10.08185" />
+   <hdTextureDist value="50" />
+   <name>hash_F8758C64</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_F8758C64</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.760014" y="-8.142048" z="1.089787" />
+   <bbMax x="6.3768" y="11.55456" z="6.442629" />
+   <bsCentre x="-1.191607" y="1.706257" z="3.766208" />
+   <bsRadius value="12.70563" />
+   <hdTextureDist value="50" />
+   <name>hash_3D8D167E</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_3D8D167E</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-3.028011" y="-10.1293" z="1.247297" />
+   <bbMax x="7.480751" y="8.053901" z="6.190787" />
+   <bsCentre x="2.22637" y="-1.037697" z="3.719042" />
+   <bsRadius value="10.78773" />
+   <hdTextureDist value="50" />
+   <name>hash_6CD2F509</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_6CD2F509</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CTimeArchetypeDef">
+   <lodDist value="50" />
+   <flags value="8192" />
+   <specialAttribute value="0" />
+   <bbMin x="-3.46447" y="-9.793" z="1.044363" />
+   <bbMax x="8.830658" y="8.312513" z="6.164893" />
+   <bsCentre x="2.683094" y="-0.740243" z="3.604628" />
+   <bsRadius value="11.23832" />
+   <hdTextureDist value="50" />
+   <name>hash_A327E1B2</name>
+   <textureDictionary>hash_C39FDAD6</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_A327E1B2</assetName>
+   <extensions />
+   <timeFlags value="32505919" />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-82.62027" y="-39.33943" z="-4.402092" />
+   <bbMax x="72.23864" y="66.61091" z="1.199895" />
+   <bsCentre x="-5.190819" y="13.63574" z="-1.601099" />
+   <bsRadius value="93.85912" />
+   <hdTextureDist value="75" />
+   <name>hash_B4D4040B</name>
+   <textureDictionary>hash_D170B059</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B4D4040B</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="800" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-85.5867" y="-64.7456" z="-3.757" />
+   <bbMax x="146.582" y="74.0379" z="49.2709" />
+   <bsCentre x="-3.754127" y="2.187645" z="-0.04363775" />
+   <bsRadius value="115.9538" />
+   <hdTextureDist value="263.471" />
+   <name>hash_A42B103C</name>
+   <textureDictionary>hash_A42B103C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_A42B103C</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_A42B103C</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-7.463851" y="-7.353855" z="-2.203612" />
+   <bbMax x="7.463795" y="7.353878" z="2.203611" />
+   <bsCentre x="-2.766E-05" y="1.144E-05" z="-7.2E-07" />
+   <bsRadius value="10.70719" />
+   <hdTextureDist value="65" />
+   <name>hash_2051BAE1</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_2051BAE1</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.111181" y="-11.40396" z="-2.29247" />
+   <bbMax x="8.111255" y="11.40392" z="2.292471" />
+   <bsCentre x="3.719E-05" y="-2.48E-05" z="4.8E-07" />
+   <bsRadius value="14.18087" />
+   <hdTextureDist value="65" />
+   <name>hash_E954BF37</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_E954BF37</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.90419" y="-9.314678" z="-1.659296" />
+   <bbMax x="8.904121" y="9.314697" z="1.6593" />
+   <bsCentre x="-3.433E-05" y="9.54E-06" z="1.91E-06" />
+   <bsRadius value="12.99233" />
+   <hdTextureDist value="65" />
+   <name>hash_12961F6A</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_12961F6A</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-9.905731" y="-10.92033" z="-1.900873" />
+   <bbMax x="6.316704" y="6.436428" z="1.417723" />
+   <bsCentre x="-1.794514" y="-2.241951" z="-0.241575" />
+   <bsRadius value="11.99414" />
+   <hdTextureDist value="65" />
+   <name>hash_DBA2A4EB</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_DBA2A4EB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="150" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.929781" y="-9.038319" z="-2.034955" />
+   <bbMax x="8.929684" y="9.038292" z="2.034956" />
+   <bsCentre x="-4.768E-05" y="-1.335E-05" z="4.8E-07" />
+   <bsRadius value="12.86748" />
+   <hdTextureDist value="65" />
+   <name>hash_CCDD0760</name>
+   <textureDictionary>hash_3B90C7A3</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CCDD0760</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="80" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-44.10263" y="-24.8908" z="-5.779106" />
+   <bbMax x="45.63926" y="24.77414" z="5.427424" />
+   <bsCentre x="0.7683143" y="-0.05833245" z="-0.1758413" />
+   <bsRadius value="51.58924" />
+   <hdTextureDist value="50" />
+   <name>hash_CDF34780</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CDF34780</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="80" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-36.99482" y="-12.85526" z="-5.984952" />
+   <bbMax x="38.05775" y="12.85527" z="5.633272" />
+   <bsCentre x="0.5314674" y="3.81E-06" z="-0.1758399" />
+   <bsRadius value="40.09023" />
+   <hdTextureDist value="50" />
+   <name>hash_C4921365</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_C4921365</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="80" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-19.27149" y="-34.93749" z="-2.201816" />
+   <bbMax x="19.27155" y="34.93748" z="-0.089458" />
+   <bsCentre x="2.67E-05" y="-3.81E-06" z="-1.145637" />
+   <bsRadius value="39.9141" />
+   <hdTextureDist value="50" />
+   <name>hash_980BBA59</name>
+   <textureDictionary>hash_3977EF6C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_980BBA59</assetName>
+   <extensions />
+  </Item>
+ </archetypes>
+ <name>hash_A1933F3A</name>
+ <dependencies />
+ <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

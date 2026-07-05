@@ -11,13 +11,13 @@
    <bsCentre x="-0.1468925" y="-0.0061731" z="1.67078257" />
    <bsRadius value="6.94579" />
    <hdTextureDist value="20" />
-   <name>hash_0C71420F</name>
-   <textureDictionary>hash_0C71420F</textureDictionary>
+   <name>qsfarmacia2_shell2</name>
+   <textureDictionary>qsfarmacia2_shell2</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_0C71420F</assetName>
+   <assetName>qsfarmacia2_shell2</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-4.027832" y="2.60892653" z="-4.44704151" />
    <bsRadius value="14.8361" />
    <hdTextureDist value="85.27201" />
-   <name>hash_76F425C6</name>
-   <textureDictionary>hash_29E5B098</textureDictionary>
+   <name>qsfarmacia2_ext</name>
+   <textureDictionary>casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_76F425C6</physicsDictionary>
+   <physicsDictionary>qsfarmacia2_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_76F425C6</assetName>
+   <assetName>qsfarmacia2_ext</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -47,13 +47,13 @@
    <bsCentre x="-5E-07" y="4E-07" z="1.485968" />
    <bsRadius value="5.42415" />
    <hdTextureDist value="15" />
-   <name>hash_E93D4941</name>
-   <textureDictionary>hash_E93D4941</textureDictionary>
+   <name>qsfarmacia2prop</name>
+   <textureDictionary>qsfarmacia2prop</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_E93D4941</physicsDictionary>
+   <physicsDictionary>qsfarmacia2prop</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_E93D4941</assetName>
+   <assetName>qsfarmacia2prop</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -65,18 +65,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="150" />
    <hdTextureDist value="50" />
-   <name>hash_81E7C24F</name>
+   <name>int_qsfarmacia22</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_81E7C24F</physicsDictionary>
+   <physicsDictionary>int_qsfarmacia22</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_81E7C24F</assetName>
+   <assetName>int_qsfarmacia22</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_0C71420F</archetypeName>
+     <archetypeName>qsfarmacia2_shell2</archetypeName>
      <flags value="1572864" />
      <guid value="2175665873" />
      <position x="0" y="0" z="0" />
@@ -171,7 +171,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_E93D4941</archetypeName>
+     <archetypeName>qsfarmacia2prop</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-0.396264" y="-2.04151" z="0.0652688" />

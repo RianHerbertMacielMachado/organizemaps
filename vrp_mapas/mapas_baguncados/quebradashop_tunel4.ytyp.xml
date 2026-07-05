@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7348471" />
    <hdTextureDist value="150" />
-   <name>hash_9E520A7A</name>
-   <textureDictionary>hash_9E520A7A</textureDictionary>
+   <name>quebradashop_tunel4_shell</name>
+   <textureDictionary>quebradashop_tunel4_shell</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_9E520A7A</assetName>
+   <assetName>quebradashop_tunel4_shell</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="150" />
-   <name>hash_F15A8D58</name>
+   <name>quebradashop_tunel4_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_F15A8D58</assetName>
+   <assetName>quebradashop_tunel4_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_9E520A7A</archetypeName>
+     <archetypeName>quebradashop_tunel4_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -629,7 +629,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_8100EE5B</archetypeName>
+     <archetypeName>portatunnel</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="-87.51695" y="22.90904" z="-25.83292" />
@@ -716,7 +716,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_B2CC134C</name>
+ <name>quebradashop_tunel4</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="100" />
-   <name>hash_23107B19</name>
-   <textureDictionary>hash_29E5B098</textureDictionary>
+   <name>quebradashop36_shell</name>
+   <textureDictionary>casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_23107B19</assetName>
+   <assetName>quebradashop36_shell</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_7CEC0932</name>
+   <name>quebradashop36_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_7CEC0932</assetName>
+   <assetName>quebradashop36_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_23107B19</archetypeName>
+     <archetypeName>quebradashop36_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -59,7 +59,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_07CE14B5</archetypeName>
+     <archetypeName>mects_1</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-2.59391332" y="4.805804" z="-2.5246048" />
@@ -78,7 +78,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_DD78288D</archetypeName>
+     <archetypeName>qsbancada</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-26.3546944" y="2.14559078" z="-2.494957" />
@@ -97,7 +97,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_358CF032</archetypeName>
+     <archetypeName>mects_2</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="4.76570129" y="9.850301" z="-2.56944275" />
@@ -116,7 +116,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_25C0D092</archetypeName>
+     <archetypeName>mects_6</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="10.807272" y="9.850273" z="-2.56944275" />
@@ -135,7 +135,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_35AFFFE8</archetypeName>
+     <archetypeName>tsarmario</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="0.5752579" y="-2.068889" z="-2.70095062" />
@@ -268,7 +268,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C8D48B62</archetypeName>
+     <archetypeName>qscaixa</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="13.0968246" y="12.4300547" z="-3.171669" />
@@ -648,7 +648,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_314A9BA7</archetypeName>
+     <archetypeName>quebradashopgraf171</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-22.8892975" y="-1.24818134" z="-1.66221619" />
@@ -686,7 +686,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D656F75A</archetypeName>
+     <archetypeName>qsbalcao2</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-24.749361" y="-2.127214" z="-2.64629364" />
@@ -705,7 +705,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C43EDDF5</archetypeName>
+     <archetypeName>quebradafiltro</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-24.7494144" y="-2.25003648" z="-2.146881" />
@@ -743,7 +743,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_956E6450</archetypeName>
+     <archetypeName>quebradashopgraf297</archetypeName>
      <flags value="32" />
      <guid value="0" />
      <position x="-26.1784611" y="2.54093838" z="-1.8993988" />
@@ -956,7 +956,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_4BDF7460</name>
+ <name>quebradashop36</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

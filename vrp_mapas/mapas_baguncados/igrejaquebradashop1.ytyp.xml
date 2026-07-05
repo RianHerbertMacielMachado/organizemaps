@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="100" />
-   <name>hash_D7A47F97</name>
-   <textureDictionary>hash_5CA53043</textureDictionary>
+   <name>igrejaquebradashop1_shell</name>
+   <textureDictionary>igrejaquebradashop1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_D7A47F97</assetName>
+   <assetName>igrejaquebradashop1_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-2.4E-07" y="0" z="-4.22987" />
    <bsRadius value="18.1675" />
    <hdTextureDist value="95.4385" />
-   <name>hash_AAAB53C2</name>
+   <name>1igrejaquebradashop1_ext</name>
    <textureDictionary>hash_24FC90EB</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_AAAB53C2</physicsDictionary>
+   <physicsDictionary>1igrejaquebradashop1_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_AAAB53C2</assetName>
+   <assetName>1igrejaquebradashop1_ext</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="0.5250831" y="-0.0050554" z="0.266" />
    <bsRadius value="0" />
    <hdTextureDist value="20" />
-   <name>hash_26827980</name>
-   <textureDictionary>hash_5CA53043</textureDictionary>
+   <name>portaigreja</name>
+   <textureDictionary>igrejaquebradashop1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_26827980</physicsDictionary>
+   <physicsDictionary>portaigreja</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_26827980</assetName>
+   <assetName>portaigreja</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -83,13 +83,13 @@
    <bsCentre x="-2.4E-07" y="0" z="-4.22987" />
    <bsRadius value="18.1675" />
    <hdTextureDist value="95.4385" />
-   <name>hash_20EB1E12</name>
-   <textureDictionary>hash_5CA53043</textureDictionary>
+   <name>igrejaquebradashop1_detail</name>
+   <textureDictionary>igrejaquebradashop1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_20EB1E12</physicsDictionary>
+   <physicsDictionary>igrejaquebradashop1_detail</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_20EB1E12</assetName>
+   <assetName>igrejaquebradashop1_detail</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -101,13 +101,13 @@
    <bsCentre x="-2.4E-07" y="0" z="-4.22987" />
    <bsRadius value="18.1675" />
    <hdTextureDist value="95.4385" />
-   <name>hash_7916F99A</name>
-   <textureDictionary>hash_5CA53043</textureDictionary>
+   <name>igrejaquebradashop1_detail2</name>
+   <textureDictionary>igrejaquebradashop1</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_7916F99A</physicsDictionary>
+   <physicsDictionary>igrejaquebradashop1_detail2</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_7916F99A</assetName>
+   <assetName>igrejaquebradashop1_detail2</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -119,18 +119,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_E11579F5</name>
+   <name>igrejaquebradashop1_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_E11579F5</assetName>
+   <assetName>igrejaquebradashop1_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_20EB1E12</archetypeName>
+     <archetypeName>igrejaquebradashop1_detail</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -149,7 +149,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D7A47F97</archetypeName>
+     <archetypeName>igrejaquebradashop1_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -168,7 +168,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="6.457794" y="-1.195389" z="-1.827753" />
@@ -187,7 +187,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="6.457794" y="0.9316711" z="-1.827753" />
@@ -206,7 +206,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="-5.195862" y="0.9172973" z="-1.827753" />
@@ -225,7 +225,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="9.170226" y="-11.04762" z="-12.37169" />
@@ -244,7 +244,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="11.02212" y="-9.998925" z="-12.37169" />
@@ -263,7 +263,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="8.241623" y="-11.56945" z="-12.37169" />
@@ -282,7 +282,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="6.392475" y="-12.62341" z="-12.37169" />
@@ -301,7 +301,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="5.423898" y="-13.1636" z="-12.37169" />
@@ -320,7 +320,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_26827980</archetypeName>
+     <archetypeName>portaigreja</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="3.562022" y="-14.21446" z="-12.37169" />
@@ -339,7 +339,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7916F99A</archetypeName>
+     <archetypeName>igrejaquebradashop1_detail2</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -407,7 +407,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_5CA53043</name>
+ <name>igrejaquebradashop1</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

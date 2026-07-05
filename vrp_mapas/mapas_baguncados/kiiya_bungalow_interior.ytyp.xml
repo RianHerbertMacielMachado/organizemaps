@@ -11,13 +11,13 @@
    <bsCentre x="2.8861928" y="-2.24981" z="3.16267323" />
    <bsRadius value="0" />
    <hdTextureDist value="60" />
-   <name>hash_08059888</name>
-   <textureDictionary>hash_53199B8B</textureDictionary>
+   <name>kiiya_bungalow_shell</name>
+   <textureDictionary>kiiya_oasis_ext_maintxd</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_08059888</assetName>
+   <assetName>kiiya_bungalow_shell</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="40" />
-   <name>hash_0FC93933</name>
+   <name>kiiya_bungalow_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_0FC93933</physicsDictionary>
+   <physicsDictionary>kiiya_bungalow_col</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_0FC93933</assetName>
+   <assetName>kiiya_bungalow_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_08059888</archetypeName>
+     <archetypeName>kiiya_bungalow_shell</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -59,7 +59,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_3DEE3913</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_wood_baseboard</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -78,7 +78,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_B836A183</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_wall_lamps_2</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -97,7 +97,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_B6E49EDF</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_wall_lamps_1</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -116,7 +116,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_0B5A6AAA</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_sink</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -135,7 +135,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_39B60CA3</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_shower</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -154,7 +154,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_85F46A74</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_rug</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="-0.187999666" y="-2.00258636" z="0.3913283" />
@@ -173,7 +173,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_97C51415</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_roof_support</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -192,7 +192,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_BED862EA</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_paints_1</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -211,7 +211,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C80DF5FB</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_mirror</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -230,7 +230,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_58D292B1</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_curtains_4</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -249,7 +249,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_8F1BFF43</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_curtains_3</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -268,7 +268,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7D615BCE</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_curtains_2</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -287,7 +287,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_15350B6F</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_curtains_1</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -306,7 +306,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_316F9B6E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_closet</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -325,7 +325,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C7A0CC9B</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_cabinet</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -344,7 +344,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_0915A3F9</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_bed_wall</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -363,7 +363,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_A5BB9CC2</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_bed_cabinet</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -382,7 +382,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4942F58A</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_bed</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -401,7 +401,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_6D9124C2</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_bathroom_wall</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -420,7 +420,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_5846723F</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_baseboard_toilet</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -439,7 +439,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D535535E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_baseboard_main</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -458,7 +458,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_35B4ED44</archetypeName>
+     <archetypeName>kiiya_bungalow_dirt_toilet</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="-0.133385286" />
@@ -477,7 +477,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_876E0A3D</archetypeName>
+     <archetypeName>kiiya_bungalow_dirt_main</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -496,7 +496,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_A65FE428</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_back_frame</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -515,7 +515,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7AC9BE62</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_side_window</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -534,7 +534,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_779B9853</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_side_frame</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -553,7 +553,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C5102313</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_side_window_2</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -572,7 +572,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_45D15C6E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_front_frame</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -591,7 +591,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_6BAE4E0C</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_toilet_window</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -610,7 +610,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_DE292FF2</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_door_frame</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -629,7 +629,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_7F8E0C7F</archetypeName>
+     <archetypeName>kiiya_bungalow_lightproxy</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -648,7 +648,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_85F46A74</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_rug</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="5.608614" y="-4.01328754" z="0.391328365" />
@@ -667,7 +667,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_13091DF7</archetypeName>
+     <archetypeName>kiiya_bungalow_lightshaft</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -686,7 +686,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="8.529675" y="-2.77135849" z="1.53268957" />
@@ -705,7 +705,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="8.529949" y="-4.7125206" z="1.53268957" />
@@ -724,7 +724,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="-2.76964521" y="-2.817426" z="1.53268981" />
@@ -743,7 +743,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="-2.76966047" y="-0.8749962" z="1.53268957" />
@@ -762,7 +762,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0.40378952" y="2.551663" z="1.53282249" />
@@ -781,7 +781,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_4DB5609E</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_entrydoor</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="-1.53737259" y="2.551663" z="1.53282249" />
@@ -800,7 +800,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_1DDF6D04</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_toilet_door</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="4.429776" y="-0.276715845" z="1.52992308" />
@@ -1864,7 +1864,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_23AA0258</archetypeName>
+     <archetypeName>kiiya_bungalow_prop_deer</archetypeName>
      <flags value="0" />
      <guid value="0" />
      <position x="1.50639117" y="-2.00929856" z="3.399051" />
@@ -2104,7 +2104,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_98CCE631</name>
+ <name>kiiya_bungalow_interior</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

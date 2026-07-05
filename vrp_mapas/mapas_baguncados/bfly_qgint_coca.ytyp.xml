@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0.2685696" />
    <bsRadius value="9.276388" />
    <hdTextureDist value="88.4223" />
-   <name>hash_89EA20EA</name>
-   <textureDictionary>hash_F98FB186</textureDictionary>
+   <name>bfly_qgint_coca</name>
+   <textureDictionary>bflyqg_txt</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_F98FB186</physicsDictionary>
+   <physicsDictionary>bflyqg_txt</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_89EA20EA</assetName>
+   <assetName>bfly_qgint_coca</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -29,18 +29,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="88.4223" />
-   <name>hash_2ED930E2</name>
+   <name>bfly_qgint_coca_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_2ED930E2</assetName>
+   <assetName>bfly_qgint_coca_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_6C94A75F</archetypeName>
+     <archetypeName>qgbfly_pia</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="3.580021" y="-3.836293" z="-2.903181" />
@@ -59,7 +59,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_BA9AB6A5</archetypeName>
+     <archetypeName>qgbfly_mesa</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="3.17644" y="-0.8733285" z="-3.036085" />
@@ -268,7 +268,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_D8E010A7</archetypeName>
+     <archetypeName>qgbfly_detail</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="-0.06724096" y="-2.988588" z="-3.443039" />
@@ -287,7 +287,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2FBA4DD1</archetypeName>
+     <archetypeName>qgbfly_door</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="-5.371829" y="-4.184654" z="-2.276232" />
@@ -306,7 +306,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2FBA4DD1</archetypeName>
+     <archetypeName>qgbfly_door</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="7.263545" y="-2.45101" z="-2.28657" />
@@ -2833,7 +2833,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2FBA4DD1</archetypeName>
+     <archetypeName>qgbfly_door</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0.614447" y="0.01413639" z="-2.271341" />
@@ -2852,7 +2852,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_2FBA4DD1</archetypeName>
+     <archetypeName>qgbfly_door</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="-5.368871" y="0.00667071" z="-2.271341" />
@@ -3232,7 +3232,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_89EA20EA</archetypeName>
+     <archetypeName>bfly_qgint_coca</archetypeName>
      <flags value="1572864" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -3979,13 +3979,13 @@
    <bsCentre x="0" y="2.93141174" z="3.70954466" />
    <bsRadius value="9.1358" />
    <hdTextureDist value="60" />
-   <name>hash_D8E010A7</name>
-   <textureDictionary>hash_F98FB186</textureDictionary>
+   <name>qgbfly_detail</name>
+   <textureDictionary>bflyqg_txt</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_F98FB186</physicsDictionary>
+   <physicsDictionary>bflyqg_txt</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_D8E010A7</assetName>
+   <assetName>qgbfly_detail</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -3997,13 +3997,13 @@
    <bsCentre x="-0.5929999" y="-0.0019531" z="-9.81E-05" />
    <bsRadius value="1.29692" />
    <hdTextureDist value="60" />
-   <name>hash_2FBA4DD1</name>
-   <textureDictionary>hash_F98FB186</textureDictionary>
+   <name>qgbfly_door</name>
+   <textureDictionary>bflyqg_txt</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_F98FB186</physicsDictionary>
+   <physicsDictionary>bflyqg_txt</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_2FBA4DD1</assetName>
+   <assetName>qgbfly_door</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -4015,13 +4015,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="1.17974" />
    <hdTextureDist value="60" />
-   <name>hash_BA9AB6A5</name>
-   <textureDictionary>hash_F98FB186</textureDictionary>
+   <name>qgbfly_mesa</name>
+   <textureDictionary>bflyqg_txt</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_F98FB186</physicsDictionary>
+   <physicsDictionary>bflyqg_txt</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_BA9AB6A5</assetName>
+   <assetName>qgbfly_mesa</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -4033,17 +4033,17 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="1.19736" />
    <hdTextureDist value="60" />
-   <name>hash_6C94A75F</name>
-   <textureDictionary>hash_F98FB186</textureDictionary>
+   <name>qgbfly_pia</name>
+   <textureDictionary>bflyqg_txt</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_F98FB186</physicsDictionary>
+   <physicsDictionary>bflyqg_txt</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_6C94A75F</assetName>
+   <assetName>qgbfly_pia</assetName>
    <extensions />
   </Item>
  </archetypes>
- <name>hash_89EA20EA</name>
+ <name>bfly_qgint_coca</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_9E70652C</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>favela_quebradashop</Item>
+    <Item>hash_F521E09C</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_8645F301</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>favela_quebradashop</Item>
+    <Item>hash_B66F58A8</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>hash_F521E09C</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>cs_hlun_lod</Item>
+    <Item>int_lev_des</Item>
+    <Item>apa_int_mp_stilts_a</Item>
+    <Item>int_services</Item>
+    <Item>v_bins</Item>
+    <Item>v_int_38</Item>
+    <Item>cutsobjects</Item>
+    <Item>int_residential</Item>
+    <Item>v_coin_op</Item>
+    <Item>quebradashopgraf</Item>
+    <Item>v_rubbish</Item>
+    <Item>int_industrial</Item>
+    <Item>int_retail</Item>
+    <Item>qs_graf_1</Item>
+    <Item>v_traffic_lights</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <itypName>hash_B66F58A8</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>detailrua1</Item>
+    <Item>int_lev_des</Item>
+    <Item>cs_hlun_lod</Item>
+    <Item>v_electrical</Item>
+    <Item>quebradashopgraf</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles" />
+</CPackFileMetaData>

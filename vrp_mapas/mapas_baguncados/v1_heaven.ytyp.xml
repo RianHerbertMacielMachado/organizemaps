@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="4.65416" />
    <hdTextureDist value="80.2359" />
-   <name>hash_8352F041</name>
-   <textureDictionary>hash_8352F041</textureDictionary>
+   <name>concreto</name>
+   <textureDictionary>concreto</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_8352F041</physicsDictionary>
+   <physicsDictionary>concreto</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_8352F041</assetName>
+   <assetName>concreto</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -65,13 +65,13 @@
    <bsCentre x="1.65191" y="3.09578" z="5.85123" />
    <bsRadius value="59.8516" />
    <hdTextureDist value="142.333" />
-   <name>hash_58C03051</name>
-   <textureDictionary>hash_A2BB795F</textureDictionary>
+   <name>v1_details</name>
+   <textureDictionary>v1_heaven_details</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_58C03051</physicsDictionary>
+   <physicsDictionary>v1_details</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_58C03051</assetName>
+   <assetName>v1_details</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -83,13 +83,13 @@
    <bsCentre x="0.625401" y="-0.689417" z="3.1823" />
    <bsRadius value="66.1695" />
    <hdTextureDist value="149.441" />
-   <name>hash_C153FC87</name>
-   <textureDictionary>hash_5614914C</textureDictionary>
+   <name>v1_floor</name>
+   <textureDictionary>v1_heaven_floor</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_C153FC87</physicsDictionary>
+   <physicsDictionary>v1_floor</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_C153FC87</assetName>
+   <assetName>v1_floor</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -101,13 +101,13 @@
    <bsCentre x="-2.34317" y="5.56705" z="13.83" />
    <bsRadius value="67.8388" />
    <hdTextureDist value="151.319" />
-   <name>hash_EEE774FD</name>
-   <textureDictionary>hash_6298B9AE</textureDictionary>
+   <name>v1_heaven_shell</name>
+   <textureDictionary>v1_texture_shell</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_EEE774FD</physicsDictionary>
+   <physicsDictionary>v1_heaven_shell</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_EEE774FD</assetName>
+   <assetName>v1_heaven_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -137,13 +137,13 @@
    <bsCentre x="-0.0891914" y="-2.89752" z="2.87644" />
    <bsRadius value="77.96119" />
    <hdTextureDist value="162.706" />
-   <name>hash_4472908A</name>
-   <textureDictionary>hash_4472908A</textureDictionary>
+   <name>v1_muro</name>
+   <textureDictionary>v1_muro</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_4472908A</physicsDictionary>
+   <physicsDictionary>v1_muro</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_4472908A</assetName>
+   <assetName>v1_muro</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -155,13 +155,13 @@
    <bsCentre x="-6.18523" y="3.73728" z="7.94175" />
    <bsRadius value="61.7482" />
    <hdTextureDist value="144.467" />
-   <name>hash_E639E70E</name>
-   <textureDictionary>hash_E182382C</textureDictionary>
+   <name>v1_roof</name>
+   <textureDictionary>v1_heaven_roof</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_E639E70E</assetName>
+   <assetName>v1_roof</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -173,17 +173,17 @@
    <bsCentre x="2.95701" y="-8.11629" z="5.90156" />
    <bsRadius value="61.5161" />
    <hdTextureDist value="144.206" />
-   <name>hash_9965A21E</name>
-   <textureDictionary>hash_EBD4F54C</textureDictionary>
+   <name>v1_wall</name>
+   <textureDictionary>v1_heaven_wall</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_9965A21E</physicsDictionary>
+   <physicsDictionary>v1_wall</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_9965A21E</assetName>
+   <assetName>v1_wall</assetName>
    <extensions />
   </Item>
  </archetypes>
- <name>hash_7B8CDF24</name>
+ <name>v1_heaven</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

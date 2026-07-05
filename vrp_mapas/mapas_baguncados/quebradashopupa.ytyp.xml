@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="100" />
-   <name>hash_B3D9C66D</name>
-   <textureDictionary>hash_DAC99FC2</textureDictionary>
+   <name>quebradashopupa_shell</name>
+   <textureDictionary>cs_8646_lod</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_B3D9C66D</assetName>
+   <assetName>quebradashopupa_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="0.947158" y="-1.20313" z="-8.248241" />
    <bsRadius value="15.0565" />
    <hdTextureDist value="91.9386" />
-   <name>hash_A0C1557D</name>
-   <textureDictionary>hash_DAC99FC2</textureDictionary>
+   <name>quebradashopupa_ext</name>
+   <textureDictionary>cs_8646_lod</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_A0C1557D</physicsDictionary>
+   <physicsDictionary>quebradashopupa_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_A0C1557D</assetName>
+   <assetName>quebradashopupa_ext</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -47,18 +47,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_29FA791B</name>
+   <name>quebradashopupa_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_29FA791B</assetName>
+   <assetName>quebradashopupa_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_B3D9C66D</archetypeName>
+     <archetypeName>quebradashopupa_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -1689,7 +1689,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_C1A7574F</name>
+ <name>quebradashopupa</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7348471" />
    <hdTextureDist value="100" />
-   <name>hash_CB8274BD</name>
-   <textureDictionary>hash_CBC6FBD3</textureDictionary>
+   <name>quebradashop_bk_shell</name>
+   <textureDictionary>quebradashop_v3</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_CB8274BD</assetName>
+   <assetName>quebradashop_bk_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-1.19E-06" y="-1.43E-06" z="0" />
    <bsRadius value="21.1896" />
    <hdTextureDist value="98.8383" />
-   <name>hash_9BB7DFDD</name>
-   <textureDictionary>hash_CBC6FBD3</textureDictionary>
+   <name>quebradashop_bk_ext</name>
+   <textureDictionary>quebradashop_v3</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_9BB7DFDD</physicsDictionary>
+   <physicsDictionary>quebradashop_bk_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_9BB7DFDD</assetName>
+   <assetName>quebradashop_bk_ext</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -47,18 +47,18 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_5715B09F</name>
+   <name>quebradashop_bk_col</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary>models</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_5715B09F</assetName>
+   <assetName>quebradashop_bk_col</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_CB8274BD</archetypeName>
+     <archetypeName>quebradashop_bk_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -210,7 +210,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_54437B01</archetypeName>
+     <archetypeName>quebrada_rack</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-0.9975282" y="3.80958414" z="13.1401367" />
@@ -305,7 +305,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_0C84273A</archetypeName>
+     <archetypeName>qs_quadro7</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-3.67612076" y="-0.01576823" z="13.7376709" />
@@ -1312,7 +1312,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_E20E524B</archetypeName>
+     <archetypeName>qs_quadro8</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-2.950271" y="0.20467639" z="10.57222" />
@@ -1616,7 +1616,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_6B3425A8</archetypeName>
+     <archetypeName>quebradashop_bk_cozinha</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-3.88468432" y="4.36818743" z="16.3941956" />
@@ -1711,7 +1711,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_244789F4</archetypeName>
+     <archetypeName>quebradashop_bk_detail</archetypeName>
      <flags value="1572872" />
      <guid value="0" />
      <position x="0" y="0" z="0" />
@@ -1787,7 +1787,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_1A602D38</archetypeName>
+     <archetypeName>piaqs</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="0.853681564" y="5.30652761" z="9.335068" />
@@ -1920,7 +1920,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C43EDDF5</archetypeName>
+     <archetypeName>quebradafiltro</archetypeName>
      <flags value="2147483680" />
      <guid value="0" />
      <position x="-0.542430639" y="5.401396" z="9.744095" />
@@ -2565,7 +2565,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_80CF31DD</name>
+ <name>quebradashop_bk</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

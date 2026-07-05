@@ -515,13 +515,13 @@
    <bsCentre x="-4.8E-07" y="0" z="0" />
    <bsRadius value="9.005402" />
    <hdTextureDist value="14.01" />
-   <name>hash_FEC792D1</name>
+   <name>v_24_bedroomshelln</name>
    <textureDictionary>hash_6EE7A4FC</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_FEC792D1</assetName>
+   <assetName>v_24_bedroomshelln</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -1201,7 +1201,7 @@
    <hdTextureDist value="6.31" />
    <name>hash_1FAB06FF</name>
    <textureDictionary>hash_6EE7A4FC</textureDictionary>
-   <clipDictionary>hash_BEBAE23A</clipDictionary>
+   <clipDictionary>v_int_24</clipDictionary>
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
@@ -2096,13 +2096,13 @@
    <bsCentre x="-0.01432419" y="-0.03652859" z="-4.8E-07" />
    <bsRadius value="21.28287" />
    <hdTextureDist value="26.26" />
-   <name>hash_62FEB773</name>
+   <name>v_24_shelln</name>
    <textureDictionary>hash_6EE7A4FC</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_62FEB773</assetName>
+   <assetName>v_24_shelln</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -2510,13 +2510,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="0" />
    <hdTextureDist value="5" />
-   <name>hash_AF5F79CB</name>
+   <name>v_franklinshousen</name>
    <textureDictionary />
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_AF5F79CB</physicsDictionary>
+   <physicsDictionary>v_franklinshousen</physicsDictionary>
    <assetType>ASSET_TYPE_ASSETLESS</assetType>
-   <assetName>hash_AF5F79CB</assetName>
+   <assetName>v_franklinshousen</assetName>
    <extensions />
    <mloFlags value="0" />
    <entities>
@@ -4478,7 +4478,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_62FEB773</archetypeName>
+     <archetypeName>v_24_shelln</archetypeName>
      <flags value="1572864" />
      <guid value="1052081760" />
      <position x="-2.753639" y="-1.67145" z="4.397651" />
@@ -4497,7 +4497,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_FEC792D1</archetypeName>
+     <archetypeName>v_24_bedroomshelln</archetypeName>
      <flags value="1572864" />
      <guid value="2089312749" />
      <position x="-0.578041" y="-1.875756" z="1.904401" />
@@ -8435,7 +8435,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_AC0C3C99</name>
+ <name>v_int_24n</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

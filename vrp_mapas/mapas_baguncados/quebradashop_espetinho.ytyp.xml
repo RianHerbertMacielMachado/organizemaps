@@ -11,13 +11,13 @@
    <bsCentre x="0" y="0" z="0" />
    <bsRadius value="7.348471" />
    <hdTextureDist value="300" />
-   <name>hash_CCAB067E</name>
-   <textureDictionary>hash_29E5B098</textureDictionary>
+   <name>quebradashop_espetinho_shell</name>
+   <textureDictionary>casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
    <physicsDictionary />
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_CCAB067E</assetName>
+   <assetName>quebradashop_espetinho_shell</assetName>
    <extensions />
   </Item>
   <Item type="CBaseArchetypeDef">
@@ -29,13 +29,13 @@
    <bsCentre x="-2.02638" y="1.00088" z="-4.14899" />
    <bsRadius value="13.5609" />
    <hdTextureDist value="90.2561" />
-   <name>hash_77D2A0F8</name>
-   <textureDictionary>hash_29E5B098</textureDictionary>
+   <name>quebradashop_espetinho_ext</name>
+   <textureDictionary>casas</textureDictionary>
    <clipDictionary />
    <drawableDictionary />
-   <physicsDictionary>hash_77D2A0F8</physicsDictionary>
+   <physicsDictionary>quebradashop_espetinho_ext</physicsDictionary>
    <assetType>ASSET_TYPE_DRAWABLE</assetType>
-   <assetName>hash_77D2A0F8</assetName>
+   <assetName>quebradashop_espetinho_ext</assetName>
    <extensions />
   </Item>
   <Item type="CMloArchetypeDef">
@@ -58,7 +58,7 @@
    <mloFlags value="0" />
    <entities>
     <Item type="CEntityDef">
-     <archetypeName>hash_CCAB067E</archetypeName>
+     <archetypeName>quebradashop_espetinho_shell</archetypeName>
      <flags value="1572864" />
      <guid value="3471224705" />
      <position x="0" y="0" z="0" />
@@ -248,7 +248,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_C43EDDF5</archetypeName>
+     <archetypeName>quebradafiltro</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="0.192818284" y="4.67934" z="1.50256538" />
@@ -894,7 +894,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="2.07483625" y="2.43728352" z="1.00668907" />
@@ -913,7 +913,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="2.07451582" y="0.781890869" z="1.00668907" />
@@ -932,7 +932,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_52C04FAF</archetypeName>
+     <archetypeName>mesaferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="2.07468653" y="1.62374163" z="0.8878603" />
@@ -951,7 +951,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_52C04FAF</archetypeName>
+     <archetypeName>mesaferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="1.999848" y="-1.05227721" z="0.8878603" />
@@ -970,7 +970,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="2.07455754" y="-0.3336231" z="1.00668907" />
@@ -989,7 +989,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="2.0746727" y="-1.83301592" z="1.00668907" />
@@ -1008,7 +1008,7 @@
      <tintValue value="0" />
     </Item>
     <Item type="CEntityDef">
-     <archetypeName>hash_763D2CBF</archetypeName>
+     <archetypeName>cadeiraferrovb</archetypeName>
      <flags value="1572896" />
      <guid value="0" />
      <position x="0.781188846" y="-1.1713264" z="1.00668907" />
@@ -1235,7 +1235,7 @@
    <timeCycleModifiers itemType="CMloTimeCycleModifier" />
   </Item>
  </archetypes>
- <name>hash_02C98A81</name>
+ <name>quebradashop_espetinho</name>
  <dependencies />
  <compositeEntityTypes itemType="CCompositeEntityType" />
 </CMapTypes>

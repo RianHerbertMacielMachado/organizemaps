@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_0EC2466A</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_F4932449</Item>
+    <Item>hash_EC39E039</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>hash_EC39E039</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>int_lev_des</Item>
+    <Item>hash_F4932449</Item>
+    <Item>mp_residential</Item>
+    <Item>apa_int_mp_h_props</Item>
+    <Item>tr_dlc_int_01_tr</Item>
+    <Item>hei_mp_residential_heist</Item>
+    <Item>h4_prop_h4_accs_01</Item>
+    <Item>h4_int_mp_h_props</Item>
+    <Item>v_minigame</Item>
+    <Item>hash_79F42BFA</Item>
+    <Item>ba_int_01_ba</Item>
+    <Item>int_retail</Item>
+    <Item>vw_prop_vw_casinochips</Item>
+    <Item>procobj</Item>
+    <Item>v_int_58</Item>
+    <Item>ba_prop_battle_crates</Item>
+    <Item>xm_x17dlc_props_cover</Item>
+    <Item>hei_lev_des_mp_dlc</Item>
+    <Item>int_corporate</Item>
+    <Item>v_electrical</Item>
+    <Item>m23_2_prop_m23_2_accs_02</Item>
+    <Item>sm_smugdlc_interior_props</Item>
+    <Item>int_residential</Item>
+    <Item>v_bins</Item>
+    <Item>v_utility</Item>
+    <Item>vw_prop_vw_casino_art_02</Item>
+    <Item>v_rubbish</Item>
+    <Item>bkr_biker_dlc_int_01</Item>
+    <Item>v_office</Item>
+    <Item>v_bar</Item>
+    <Item>h4_prop_h4_dj</Item>
+    <Item>xm_x17dlc_props_base</Item>
+    <Item>ch_prop_ch_mission_freemode</Item>
+    <Item>gr_prop_gr_crates</Item>
+    <Item>int_medical</Item>
+    <Item>int_industrial</Item>
+    <Item>v_industrial</Item>
+    <Item>v_construction</Item>
+    <Item>gr_prop_gr_machinery</Item>
+    <Item>gr_prop_gr_benches</Item>
+    <Item>m23_1_prop_m23_1_facility</Item>
+    <Item>v_storage</Item>
+    <Item>bkr_mp_biker_money</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>m23_1_prop_m23_1_crates</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles">
+  <Item>
+   <Name>hash_6DC5AE08</Name>
+   <Bounds>
+    <Item>hash_6DC5AE08</Item>
+   </Bounds>
+  </Item>
+ </Interiors>
+</CPackFileMetaData>
