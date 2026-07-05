@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_5B1410AA</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>hash_CBB8D2D8</Item>
+    <Item>v_potted</Item>
+    <Item>v_bush</Item>
+    <Item>v_traffic_lights</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_A8BD73BC</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_A7AAA5BC</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_06F2BDB6</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_A7AAA5BC</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_1B1CE60A</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_A7AAA5BC</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hei_cs2_10_critical_5</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>cs_xref</Item>
+    <Item>v_bush</Item>
+    <Item>v_trees</Item>
+    <Item>v_ext_veg</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hei_cs2_10_grass_0</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>v_proc1</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hei_cs2_10_long_1</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>country_02_metadata_014_strm</Item>
+    <Item>v_bush</Item>
+    <Item>cs_xref</Item>
+    <Item>v_ext_veg</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hei_cs2_10_strm_2</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>country_02_metadata_014_strm</Item>
+    <Item>cs_xref</Item>
+    <Item>v_bush</Item>
+    <Item>v_sports</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hei_cs2_11_grass_1</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>v_proc1</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_57C5EA84</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>hash_CA939088</Item>
+    <Item>hash_6DE4E4A9</Item>
+    <Item>v_airport</Item>
+    <Item>v_trees</Item>
+    <Item>v_potted</Item>
+    <Item>hash_A7AAA5BC</Item>
+    <Item>v_crops</Item>
+    <Item>v_sports</Item>
+    <Item>h4_prop_h4_island_03</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>hei_lev_des_mp_dlc</Item>
+    <Item>v_bush</Item>
+    <Item>hash_6A8BCE27</Item>
+    <Item>v_garden</Item>
+    <Item>v_seating_tables</Item>
+    <Item>v_electrical</Item>
+    <Item>h4_prop_h4_rock</Item>
+    <Item>hash_74433612</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_7AB38F84</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>hash_FB6E9271</Item>
+    <Item>hash_CBB8D2D8</Item>
+    <Item>v_potted</Item>
+    <Item>v_traffic_lights</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_CA79BC3E</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>hash_FB6E9271</Item>
+    <Item>hash_CBB8D2D8</Item>
+    <Item>v_potted</Item>
+    <Item>v_bush</Item>
+    <Item>v_traffic_lights</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>hash_A7AAA5BC</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>v_electrical</Item>
+    <Item>int_residential</Item>
+    <Item>v_sports</Item>
+    <Item>v_seating_tables</Item>
+    <Item>hei_mp_residential_heist</Item>
+    <Item>v_garden</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles">
+  <Item>
+   <Name>hash_87EB8B9E</Name>
+   <Bounds>
+    <Item>hash_87EB8B9E</Item>
+   </Bounds>
+  </Item>
+ </Interiors>
+</CPackFileMetaData>

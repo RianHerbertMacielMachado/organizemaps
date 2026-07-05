@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes name="k382_white_bed">
+ <extensions />
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="103.329" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.49951" y="-1.51367" z="-0.620117" />
+   <bbMax x="1.49951" y="1.51367" z="0.620117" />
+   <bsCentre x="0" y="-1.2E-07" z="0" />
+   <bsRadius value="2.21907" />
+   <hdTextureDist value="77.4965" />
+   <name>hash_AFB15A91</name>
+   <textureDictionary>hash_AFB15A91</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_AFB15A91</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_AFB15A91</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="105.421" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.99761" y="-2.09809" z="-2.16085" />
+   <bbMax x="1.99761" y="2.09809" z="2.16085" />
+   <bsCentre x="9.5E-07" y="-1.67E-06" z="-1.2E-07" />
+   <bsRadius value="3.6141" />
+   <hdTextureDist value="79.0659" />
+   <name>hash_CF572011</name>
+   <textureDictionary>hash_CF572011</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_CF572011</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_CF572011</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="101.133" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.517892" y="-0.511799" z="-0.192398" />
+   <bbMax x="0.522957" y="0.513348" z="0.192398" />
+   <bsCentre x="0.00253254" y="0.00077435" z="0" />
+   <bsRadius value="0.755374" />
+   <hdTextureDist value="75.8498" />
+   <name>hash_02E1A85E</name>
+   <textureDictionary>hash_02E1A85E</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_02E1A85E</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_02E1A85E</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="103.003" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.30775" y="-1.5157" z="-0.0168456" />
+   <bbMax x="1.30775" y="1.5157" z="0.0168456" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="2.00195" />
+   <hdTextureDist value="77.2522" />
+   <name>hash_396514FB</name>
+   <textureDictionary>hash_396514FB</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_396514FB</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="104.348" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.99761" y="-2.09809" z="-0.09001641" />
+   <bbMax x="1.99761" y="2.09809" z="0.09001641" />
+   <bsCentre x="2.86E-06" y="7.2E-07" z="0" />
+   <bsRadius value="2.89837" />
+   <hdTextureDist value="78.2607" />
+   <name>hash_ED9D2062</name>
+   <textureDictionary>hash_ED9D2062</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_ED9D2062</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_ED9D2062</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="100.211" />
+   <flags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.0868481" y="-0.0915849" z="-0.0618278" />
+   <bbMax x="0.0868481" y="0.0915849" z="0.0618278" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="0.140546" />
+   <hdTextureDist value="75.15809" />
+   <name>hash_2D6B0EF1</name>
+   <textureDictionary>hash_2D6B0EF1</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_2D6B0EF1</assetName>
+   <extensions>
+    <Item type="CExtensionDefParticleEffect">
+     <name>hash_2D6B0EF1</name>
+     <offsetPosition x="0.0038083" y="0.0016019" z="0.0618278" />
+     <offsetRotation x="0" y="0" z="0" w="1" />
+     <fxName>AMB_CANDLE_FLAME</fxName>
+     <fxType value="0" />
+     <boneTag value="0" />
+     <scale value="1" />
+     <probability value="100" />
+     <flags value="0" />
+     <color value="0x00FFFFFF" />
+    </Item>
+   </extensions>
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="46268416" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.866779" y="-0.0428223" z="-1.60696" />
+   <bbMax x="0.866915" y="0.0415921" z="1.60392" />
+   <bsCentre x="6.831E-05" y="-0.00061511" z="-0.00151992" />
+   <bsRadius value="1.82501" />
+   <hdTextureDist value="80" />
+   <name>hash_7E808E83</name>
+   <textureDictionary>hash_7E808E83</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_7E808E83</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="46268416" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.6023619" y="-0.0444214" z="-1.597" />
+   <bbMax x="0.6023619" y="0.0444214" z="1.597" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="1.7074" />
+   <hdTextureDist value="80" />
+   <name>hash_BE329BDA</name>
+   <textureDictionary>hash_BE329BDA</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_BE329BDA</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="46268416" />
+   <specialAttribute value="0" />
+   <bbMin x="-0.3972" y="-0.2037" z="-0.7402" />
+   <bbMax x="0.3899" y="0.2051" z="1.3841" />
+   <bsCentre x="-0.00364999" y="0.0007" z="0.32195" />
+   <bsRadius value="1.15101" />
+   <hdTextureDist value="80" />
+   <name>hash_52ABD8F8</name>
+   <textureDictionary>hash_52ABD8F8</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_FRAGMENT</assetType>
+   <assetName>hash_52ABD8F8</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="120" />
+   <flags value="549584896" />
+   <specialAttribute value="0" />
+   <bbMin x="-4.38572" y="-2.16922" z="-0.175574" />
+   <bbMax x="4.38572" y="2.16922" z="0.923037" />
+   <bsCentre x="-2.4E-07" y="0" z="0.373731" />
+   <bsRadius value="4.92359" />
+   <hdTextureDist value="15" />
+   <name>hash_234538C5</name>
+   <textureDictionary>hash_234538C5</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_234538C5</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_234538C5</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="108.224" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-4.89234" y="-0.988739" z="-2.26929" />
+   <bbMax x="4.89234" y="0.988739" z="2.26929" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="5.4829" />
+   <hdTextureDist value="81.1683" />
+   <name>hash_D1332B22</name>
+   <textureDictionary>hash_D1332B22</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_D1332B22</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_D1332B22</assetName>
+   <extensions />
+  </Item>
+ </archetypes>
+ <name>hash_B84A1E01</name>
+ <dependencies />
+ <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

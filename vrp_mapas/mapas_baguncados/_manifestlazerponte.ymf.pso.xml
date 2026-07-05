@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>h4_beach_party</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>h4_mph4_island_combine_metadata_005_strm</Item>
+    <Item>h4_prop_h4_lights</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>h4_beach_props</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>h4_prop_h4_dj</Item>
+    <Item>cs_xref</Item>
+    <Item>v_palm</Item>
+    <Item>h4_prop_h4_island_02</Item>
+    <Item>v_sports</Item>
+    <Item>v_bush</Item>
+    <Item>h4_prop_h4_trees</Item>
+    <Item>h4_prop_h4_island_01</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>v_fences_2</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_D4237917</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>hash_99246542</Item>
+    <Item>h4_mph4_island_combine_metadata_005_strm</Item>
+    <Item>v_potted</Item>
+    <Item>v_bar</Item>
+    <Item>h4_prop_h4_island_02</Item>
+    <Item>v_sports</Item>
+    <Item>ba_prop_battle_lights_05</Item>
+    <Item>ba_prop_battle_lights</Item>
+    <Item>v_industrial_2</Item>
+    <Item>hei_mp_residential_heist</Item>
+    <Item>v_bins</Item>
+    <Item>lev_des</Item>
+    <Item>v_storage</Item>
+    <Item>v_minigame</Item>
+    <Item>v_electrical</Item>
+    <Item>as_prop_as_accs</Item>
+    <Item>int_club</Item>
+    <Item>ba_prop_battle_crates</Item>
+    <Item>int_residential</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies" />
+ <Interiors itemType="CInteriorBoundsFiles" />
+</CPackFileMetaData>

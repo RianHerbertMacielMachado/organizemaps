@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup" />
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding" />
+ <imapDependencies itemType="CImapDependency" />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>hash_03D357C9</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>hash_80CF31DD</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>hash_86707AA3</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>cs_hlun_lod</Item>
+    <Item>int_services</Item>
+    <Item>v_fastfood</Item>
+    <Item>ba_prop_battle_dj</Item>
+    <Item>v_office</Item>
+    <Item>v_bins</Item>
+    <Item>v_kitchen</Item>
+    <Item>v_bar</Item>
+    <Item>v_storage</Item>
+    <Item>v_traffic_lights</Item>
+    <Item>v_sports</Item>
+    <Item>p_v_lev_des_skin</Item>
+    <Item>int_residential</Item>
+    <Item>v_electrical</Item>
+    <Item>quebradashopgraf</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 itemType="CItypDependencies">
+  <Item>
+   <itypName>hash_80CF31DD</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>ch_dlc_int_02_ch</Item>
+    <Item>apa_int_mp_h_props</Item>
+    <Item>int_residential</Item>
+    <Item>cs_hlun_lod</Item>
+    <Item>v_office</Item>
+    <Item>int_lev_des</Item>
+    <Item>ch_prop_ch_arcade_degenatron</Item>
+    <Item>hash_35603D78</Item>
+    <Item>v_int_16</Item>
+    <Item>lev_des</Item>
+    <Item>v_rubbish</Item>
+    <Item>ex_int_mp_h_accessories_ex</Item>
+    <Item>v_electrical</Item>
+    <Item>v_minigame</Item>
+    <Item>int_medical</Item>
+    <Item>int_industrial</Item>
+    <Item>v_kitchen</Item>
+    <Item>int_retail</Item>
+    <Item>hei_mp_residential_heist</Item>
+    <Item>h4_prop_h4_money_01</Item>
+    <Item>v_storage</Item>
+    <Item>hash_6B3425A8</Item>
+    <Item>vw_prop_vw_casino_art_02</Item>
+    <Item>v_construction</Item>
+    <Item>v_fastfood</Item>
+    <Item>detailrua1</Item>
+    <Item>v_bar</Item>
+    <Item>v_traffic_lights</Item>
+   </itypDepArray>
+  </Item>
+ </itypDependencies_2>
+ <Interiors itemType="CInteriorBoundsFiles">
+  <Item>
+   <Name>hash_5715B09F</Name>
+   <Bounds>
+    <Item>hash_5715B09F</Item>
+   </Bounds>
+  </Item>
+ </Interiors>
+</CPackFileMetaData>

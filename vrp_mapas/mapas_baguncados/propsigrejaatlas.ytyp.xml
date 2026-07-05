@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+ <extensions />
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="500" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-8.135199" y="-0.1605737" z="-1.72528982" />
+   <bbMax x="8.126957" y="1E-07" z="1.64175844" />
+   <bsCentre x="-0.0041208" y="-0.0802868" z="-0.0417657" />
+   <bsRadius value="8.30392" />
+   <hdTextureDist value="5" />
+   <name>hash_019F9544</name>
+   <textureDictionary>hash_019F9544</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_2BEC2BD6</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_019F9544</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="500" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-1.39214325" y="-0.0509006" z="-1.3921423" />
+   <bbMax x="1.39213943" y="2E-07" z="1.392142" />
+   <bsCentre x="-1.9E-06" y="-0.0254502" z="-1E-07" />
+   <bsRadius value="1.96895" />
+   <hdTextureDist value="5" />
+   <name>hash_1B2F6045</name>
+   <textureDictionary>hash_1B2F6045</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_6D646731</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_1B2F6045</assetName>
+   <extensions />
+  </Item>
+ </archetypes>
+ <name />
+ <dependencies />
+ <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

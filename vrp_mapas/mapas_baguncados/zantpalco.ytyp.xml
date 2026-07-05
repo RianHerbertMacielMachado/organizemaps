@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+ <extensions />
+ <archetypes>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="500" />
+   <flags value="32" />
+   <specialAttribute value="0" />
+   <bbMin x="-14.0401" y="-5.32558" z="-0.0341024" />
+   <bbMax x="14.0401" y="5.32558" z="0.0341024" />
+   <bsCentre x="0" y="0" z="0" />
+   <bsRadius value="15.0163" />
+   <hdTextureDist value="5" />
+   <name>hash_B607F1E0</name>
+   <textureDictionary>hash_07D69C2C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>hash_2013C9CB</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_B607F1E0</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="60" />
+   <flags value="33701888" />
+   <specialAttribute value="0" />
+   <bbMin x="-5.68206" y="-14.0836" z="-1.07799" />
+   <bbMax x="5.64658" y="14.0854" z="1.07798" />
+   <bsCentre x="-0.0177355" y="0.000916" z="-3.22E-06" />
+   <bsRadius value="15.2191" />
+   <hdTextureDist value="15" />
+   <name>hash_103873EF</name>
+   <textureDictionary>hash_07D69C2C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_103873EF</assetName>
+   <extensions />
+  </Item>
+  <Item type="CBaseArchetypeDef">
+   <lodDist value="60" />
+   <flags value="33701888" />
+   <specialAttribute value="0" />
+   <bbMin x="-13.9817" y="-5.05281" z="-7.03556" />
+   <bbMax x="14.0377" y="5.52819" z="7.13684" />
+   <bsCentre x="0.0280027" y="0.237692" z="0.0506406" />
+   <bsRadius value="16.5673" />
+   <hdTextureDist value="15" />
+   <name>hash_4982676B</name>
+   <textureDictionary>hash_07D69C2C</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary />
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>hash_4982676B</assetName>
+   <extensions />
+  </Item>
+ </archetypes>
+ <name>hash_741927C7</name>
+ <dependencies />
+ <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

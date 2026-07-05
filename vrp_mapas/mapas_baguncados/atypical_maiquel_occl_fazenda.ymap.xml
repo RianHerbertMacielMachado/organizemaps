@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name />
+ <parent />
+ <flags value="0" />
+ <contentFlags value="32" />
+ <streamingExtentsMin x="6186.669" y="3334.44629" z="759.0378" />
+ <streamingExtentsMax x="6246.007" y="3410.23975" z="766.0436" />
+ <entitiesExtentsMin x="6186.669" y="3334.44629" z="759.0378" />
+ <entitiesExtentsMax x="6246.007" y="3410.23975" z="766.0436" />
+ <entities />
+ <containerLods itemType="rage__fwContainerLodDef" />
+ <boxOccluders itemType="BoxOccluder" />
+ <occludeModels itemType="OccludeModel">
+  <Item>
+   <bmin x="6186.669" y="3334.44629" z="759.0378" />
+   <bmax x="6246.007" y="3410.23975" z="766.0436" />
+   <dataSize value="126" />
+   <verts>
+    5A 55 C1 45 D6 23 55 45 6B C2 3D 44 5A 55 C1 45 24 67 50 45 CA 82 3F 44 5A 55 C1 45 24 67 50 45
+    6B C2 3D 44 0E 30 C3 45 D6 23 55 45 6B C2 3D 44 5A 55 C1 45 D6 23 55 45 CA 82 3F 44 0E 30 C3 45
+    24 67 50 45 6B C2 3D 44 0E 30 C3 45 D6 23 55 45 CA 82 3F 44 0E 30 C3 45 24 67 50 45 CA 82 3F 44
+    00 01 02 03 04 00 05 06 03 02 07 05 02 03 00 00 04 01 03 06 04 05 07 06 02 01 07 02 05 03
+   </verts>
+   <numVertsInBytes value="96" />
+   <numTris value="32778" />
+   <flags value="0" />
+  </Item>
+ </occludeModels>
+ <physicsDictionaries />
+ <instancedData>
+  <ImapLink />
+  <PropInstanceList itemType="rage__fwPropInstanceListDef" />
+  <GrassInstanceList itemType="rage__fwGrassInstanceListDef" />
+ </instancedData>
+ <timeCycleModifiers itemType="CTimeCycleModifier" />
+ <carGenerators itemType="CCarGen" />
+ <LODLightsSOA>
+  <direction itemType="FloatXYZ" />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+ </LODLightsSOA>
+ <DistantLODLightsSOA>
+  <position itemType="FloatXYZ" />
+  <RGBI />
+  <numStreetLights value="0" />
+  <category value="0" />
+ </DistantLODLightsSOA>
+ <block>
+  <version value="0" />
+  <flags value="0" />
+  <name></name>
+  <exportedBy>CodeWalker</exportedBy>
+  <owner></owner>
+  <time>05 julho 2026 06:13</time>
+ </block>
+</CMapData>
